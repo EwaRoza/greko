@@ -24,10 +24,14 @@ Here we present the motifs of Thermopylae and Sparta in three stages:
 
 Sparta appears in Słowacki’s oeuvre on numerous occasions and in different ways. It appears in *Agamemnon’s Tomb* (1838) with its central theme of Thermopylae and the heroism of Leonidas. This poem is among the most significant works of Polish Romanticism and has had a tremendous influence upon the generations that followed. The poet travelling across Greece, visits Mycenae and Thermopylae. Mycenae makes him think about the problem of evil in history, whereas Thermopylae represents an unattable model of heroism. The monumental figure of Leonidas personifies this heroism.
 
-In *Agamemnon’s Tomb* there is an unusual fragment: “And for a long time the people cried because of such a sacrifice”, "The scented  fire and broken goblet" (v. 89-90). This mysterious metaphor suggests a romantic ritual of Forefathers’ Eve (the encounter with one’s dead ancestors – the central motif of Polish Romanticism): the people who are present at the sacrifice, the people as witnesses to this Thermopylae sacrifice, and the poet who, on the battlefields, calls on the ghosts of the old Greek heroes and talks to them as though they are still alive and present for him ([...] they must be there [...] they still see, v. 75).
-“The Legion of the Dead Spartans" is still present at Thermopilae and it is "at the grave" that they show to the travelling poet "their bodies in blood". They ask the poet who came "from the sad land of the Helots", that is from the land of slaves, about a common or similar history: “[...] they even ask, 'Were there many of you?’”- This question refers to the failed Polish national uprising of 1830.
+In *Agamemnon’s Tomb* there is an unusual fragment: “And for a long time the people cried because of such a sacrifice”, "The scented  fire and broken goblet" (v. 89-90). This mysterious metaphor suggests a romantic ritual of Forefathers’ Eve (the encounter with one’s dead ancestors – the central motif of Polish Romanticism): the people who are present at the sacrifice, the people as witnesses to this Thermopylae sacrifice, and the poet who, on the battlefields, calls on the ghosts of the old Greek heroes and talks to them as though they are still alive and present for him ("[...] they must be there [...] they still see", v. 75).
+“The Legion of the Dead Spartans" is still present at Thermopilae and it is "at the grave" that they show to the travelling poet "their bloodied chests" (v. 81). They ask the poet who came "from the sad land of the Helots" (v. 69), that is from the land of slaves, about a common or similar history: “[...] they even ask, 'Were there many of you?’” (v. 82). This question refers to the failed Polish national uprising of 1830.
 
 In *Agamemnon’s Tomb* Leonidas is presented as a naked statue, and this is a specific kind of nakedness characteristic of ancient Greek monuments. It merges the indestructible divine and the eternal with human physicality and sensuality. There is a beautiful soul in this marble statue and a struggle is being waged for it and its  spiritual strength. A Poland bathed in the River Styx can become such a statue, and can  regain its soul.
+
+Juliusz Słowacki  
+*Agamemnon's Tomb* (*Grób Agamemnona*)  
+Translated by Catherine O’Neil[^1]
 
 
 >[10]  
@@ -103,9 +107,7 @@ But its hands and crown will be of lightning,
 And its gaze scornful of death – the blush of life.  
 >
 >[…]  
-
-Transl. by Cathrine O'Neil [^1]. 
-
+ 
 
 {{< figure src="../../GA.jpg" title="Agamemnon’s Tomb – drawing by Juliusz Słowacki, Raptularz Wschodni Juliusza Słowackiego. Edycja – studia - komentarze, vol. 1. Podobizna autografu, Warszawa, DiG 2019, p. 68.">}}
 
