@@ -17,4 +17,4 @@ Ruiny Africo – nadal dostępne jedynie pieszo – pokazują, że był to kiedy
 
 Petrelli, jak wcześniej Riis, zrobił karierę reporterską na swoich wojerystycznych, ale ostatecznie politycznie skutecznych fotografiach. Nie wiem, na ile zdjęcia były pozowane, czy przedstawione osoby miały nad nimi jakakolwiek kontrolę, czy w ogóle chciały stać się symbolem politycznym. W przeciwieństwie do fotografa afrykanie pozostają niemi i anonimowi.
 
-{{< figure src="/greko/africo3.jpg" title="Budynek szkoły podstawowej w Africo" >}}
+{{< figure src="/greko/africo3.jpg" title="Budynek szkoły podstawowej w Africo w 2021 r. - 70 lat po opuszczeniu miejscowości." >}}
