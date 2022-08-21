@@ -20,3 +20,5 @@ Petrelli, jak wcześniej Riis, zrobił karierę reporterską na swoich wojerysty
 {{< figure src="/greko/africo3.jpg" title="Budynek szkoły podstawowej w Africo w 2021 r. - 70 lat po opuszczeniu miejscowości." >}}
 
 {{< figure src="/greko/africo5.jpg" title="Kościół p.w. Świętego Zbawiciela (San Salvatore) w Africo" >}}
+
+{{< figure src="/greko/africo6.jpg" title="Połamana tablica z cmentarza w Africo. Romeo Santoro, ur. 10.12.1912, zm. 2.11.1954" >}}
