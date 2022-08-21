@@ -4,7 +4,7 @@ title: "Borghi: Africo"
 description: "Niemal samowystarczalne, położone wysoko w górach i odległe od politycznych decydentów, Africo i Casalnuovo pozostawały poza świadomością zamożnej Północy do lat 20., gdy o nędzy, głodzie, analfabetyzmie i codziennych trudach życia na aspromonckim odludziu napisał historyk i publicysta Umberto Zanotti Bianco."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
-thumbnail: /greko/roccaforte.jpg
+thumbnail: /greko/africo2.jpg
 ---
 
 Africo (lokalsi akcentują na pierwszą sylabę) i Casalnuovo to kalabryjskie osady założone w czasach wczesnośredniowiecznych (VIII-X wiek) przez ludność pochodzenia greckiego, najprawdopodobniej wokół istniejących wcześniej pustelni greckich mnichów. Wioski powstały niezależnie od siebie po dwóch stronach wąwozu. 
