@@ -4,7 +4,7 @@ title: "W górach i na wybrzeżu "
 description: "Kolejne epoki historii mieszkańców grekańskiego zakątka Kalabrii wyznaczają przenosiny siedzib między wybrzeżem a położonymi w głębi lądu górami."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
-thumbnail: /greko/wybrzeze.JPG
+thumbnail: /greko/etna.JPG
 ---
 
 Kolejne epoki historii mieszkańców grekańskiego zakątka Kalabrii wyznaczają przenosiny siedzib między wybrzeżem a położonymi w głębi lądu górami. Dzięki pracom archeologów z Uniwersytetu w Cambridge wiemy, że w czasach prehistorycznych ludność zamieszkiwała te obszary w małych, rozproszonych po południowym zboczu gór Aspromonte siedzibach. Dopiero Grecy, których tryb życia tradycyjnie łączył się z możem i żeglarstwem, założyli na wybrzeżu duże kolonie, a Rzymianie, idąc w ich ślady, kontynuowali zasiedlanie wybrzeża i nisko położonych terenów. Radykalna zmiana nastąpiła w czasach Bizancjum: zapewne to malaria, rozwój piractwa i zagrożenie arabskie skłoniły ludność do szukania bezpieczeństwa w górach i przekształcenia gospodarki z morskiej w rolniczo-pasterską, ale mogło chodzić także o zmianę układu polityczno-gospodarczego. Teraz główne trasy komunikacyjne wiodły lądem, a nie morzem. W górach kultura greko trwała przez stulecia przez cały okres nowożytny aż do XIX wieku. Osadnictwo nie było już jak wcześniej rozproszone na nizinach, ale skupione w górskich miejscowościach o zwartej zabudowie – najważniejszą i najstarszą z nich była Bova. W odległych, skalnych pustelniach rozwijała się wschodnia duchowość anachoretów.  
