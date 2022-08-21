@@ -1,6 +1,6 @@
 ---
 author: "Ludmiła Janion"
-title: "Borghi: Africo"
+title: "Borghi: Africo i Casalinuovo"
 description: "Niemal samowystarczalne, położone wysoko w górach i odległe od politycznych decydentów, Africo i Casalnuovo pozostawały poza świadomością zamożnej Północy do lat 20., gdy o nędzy, głodzie, analfabetyzmie i codziennych trudach życia na aspromonckim odludziu napisał historyk i publicysta Umberto Zanotti Bianco."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
