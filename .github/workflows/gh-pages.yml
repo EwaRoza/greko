@@ -19,6 +19,17 @@ jobs:
       with:
         hugo-version: '0.101.0'
 
+    - name: Copy package.json and package-lock.json
+      run: cp themes/blist/package*.json .
+
+    - name: Setup npm
+      uses: actions/setup-node@v3
+      with:
+        node-version: lts
+  
+    - name: npm install
+      run: npm install 
+
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir
 
