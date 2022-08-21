@@ -1,8 +1,8 @@
-baseURL: "https://ewaroza.github.io/sparta/"
-title: Sparta
+baseURL: "https://ewaroza.github.io/greko/"
+title: Greko
 paginate: 8
 # theme: hugo-primer
-theme: hugo-PaperMod
+theme: blist
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,9 +17,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Sparta
-  description: 'Sparta description'
-  author: Spartanin
+  title: Greko
+  description: 'Greko description'
+  author: Ewa Janion
   # author: ["Me", "You"] # multiple authors
 
   ShowReadingTime: true
