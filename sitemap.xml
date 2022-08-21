@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ewaroza.github.io/sparta/posts/project/</loc>
+    <loc>https://ewaroza.github.io/greko/posts/project/</loc>
     <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/posts/before19century/</loc>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/posts/before19century/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/posts/romanticmodel/</loc>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/posts/romanticmodel/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/posts/thermo/</loc>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/posts/thermo/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/posts/</loc>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/</loc>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/posts/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/categories/</loc>
+  </url><url>
+    <loc>https://ewaroza.github.io/greko/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ewaroza.github.io/sparta/tags/</loc>
-  </url>
-  
 </urlset>
