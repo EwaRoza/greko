@@ -1,10 +1,10 @@
 ---
 author: "Ewa Janion"
 title: "Język"
-description: "Dzisiaj językiem greko posługuje się niewiele osób, jednak jego historia sięga epoki starożytnej."
+description: "Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
 thumbnail: /greko/roccaforte.jpg
 ---
 
-Język 
+Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim. Od języka nowogreckiego różni się przede wszystkim słownictwem oraz wymową głosek. Jego fonetyka jest skomplikowana także dlatego, że istnieje kilka zdecydowanie różnych wariantów wymowy słów, gramatyka jest zaś nieco prostsza od nowogreckiej. Podobieństwo między językami jest na tyle duże, że świadoma tych różnic osoba mówiąca po nowogrecku często może domyślić się znaczenia wielu słów i zdań w greko.      
