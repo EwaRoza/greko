@@ -4,7 +4,7 @@ title: "Dzieje greki w Kalabrii"
 description: "Dzisiaj językiem greko posługuje się niewiele osób, jednak jego historia sięga epoki starożytnej."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
-thumbnail: {{< figure src="../../Roccaforte.jpg" " >}}
+thumbnail: ../../Roccaforte.jpg"
 ---
 
 Język grecki było obecny w Kalabrii od starożytności. W VIII-VII wieku p.n.e. wybrzeża Sycylii i południe półwyspu Apenińskiego zostały skolonizowane przez Hellenów posługujących się różnymi wariantami języka starogreckiego. 500 lat później tereny te przejęli Rzymianie, co jednak nie oznaczało końca kultury Greków – zlatynizowały się wyższe warstwy społeczne związane z administracją imperium, inni mogli dalej posługiwać się starym językiem. Wykopaliska archeologiczne prowadzone w ruinach synagogi w dolinie San Pasquale nieopodal miejscowości Bova Marina wskazują na istotne zniszczenia w końcu VI w. n.e. – najprawdopodobniej to ślad najazdu Longobardów i kresu epoki rzymskiej.  
