@@ -1,7 +1,7 @@
 ---
 
 author: "Ewa Janion"
-title: "*boghi*
+title: "*boghi*"
 description: "Dzisiejsze mapy nie oddają dawnej topografii obszaru kultury grekańskiej."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
