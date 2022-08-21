@@ -1,0 +1,13 @@
+{
+    "customizations": {
+      "codespaces": {
+        "repositories": {
+          "wiktorn/greko": {
+            "permissions": {
+              "workflows": "write"
+            }
+          }
+        }
+      }
+    }
+  }
