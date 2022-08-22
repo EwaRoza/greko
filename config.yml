@@ -38,9 +38,9 @@ languages:
           url: "tags"
           weight: 3
         -
-          #name: "Top Post"
-          #url: "/en/blog/emoji-support/"
-          #weight: 4
+          name: "Top Post"
+          url: "/en/blog/emoji-support/"
+          weight: 4
 
 menu:
   main:
