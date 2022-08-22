@@ -23,5 +23,5 @@ Petrelli, jak wcześniej Riis, zrobił karierę reporterską na swoich wojerysty
 
 {{< figure src="/greko/africo7.jpg" title="Mur i brama cmentarza.">}}
 
-{{< figure src="/greko/africo6.jpg" title="Połamana tablica z cmentarza w Africo. *Romeo Santoro, syn Giuseppe, ur. 10.12.1912, zm. 2.11.1954*" >}}
+{{< figure src="/greko/africo6.jpg" title="Romeo Santoro, syn Giuseppego, ur. 10.12.1912, zm. 2.11.1954" >}}
 
