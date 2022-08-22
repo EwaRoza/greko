@@ -30,7 +30,7 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 - Cząstka τι może przyjmować różne funkcje składniowe. Np. w zdaniu złożonym może znaczyć „że”: Su lego ti èrkete. (Mówię ci, że przyjdzie). Tu fènete ti kanni ulla ta pràmata. (Wydaje mu się, że robi wszystkie rzeczy).
 - Część słownictwa w ogóle nie przypomina słów nowogreckich i trzeba je zapamiętać, np. πατέρας (ojciec) to w greko ciuri, αδελφός (brat) to leddè, κότα (kura) → pudda, βουνό (góra) → ozzìa, κάτι (coś) → ticandì, κάπου (gdzieś) → pucambù. W zapamiętaniu niektórych słów pomaga etymologia ciuri pochodzi od greckiego κύριος, a czasownik plateguo (mówię) ma związek z rzeczownikiem πλατεία (plac) i przymiotnikiem πλατύς (szeroki), chodzi bowiem o mówienie do grupy ludzi.  
 
-Odmianę czasownika w czasie teraźniejszym jest regularna, ale często występuje kilka obocznych wariantów tej samej formy. 
+Odmiana czasownika w czasie teraźniejszym jest regularna, ale często występuje kilka obocznych wariantów tej samej formy. 
 
 | Osoba | Imme - być | Echo - mieć |
 | ----------- | ----------- |----------- |
@@ -64,12 +64,12 @@ Odmianę czasownika w czasie teraźniejszym jest regularna, ale często występu
 
 W zapisie uwzględniono cechy języka mówionego. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego, które oznaczyłam kursywą. 
 
-- Ce o *pòverose* èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
+1. Ce o *pòverose* èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
 
-- Ta leddidhiatu, pu etheliai ti *rròba*, epigai sti llimòsina. Ecinose èmine me te pplusiestu ce *kuntènto*, ce egò ode ya na gràspo. E ppassemmèno mesimèri ce den èfaga akomi. 
+2. Ta leddidhiatu, pu etheliai ti *rròba*, epigai sti llimòsina. Ecinose èmine me te pplusiestu ce *kuntènto*, ce egò ode ya na gràspo. E ppassemmèno mesimèri ce den èfaga akomi. 
 
-- Epyàsai ton *garbunàro*, ton edhèai ce ton ekremàsai. Ce o Petru eprandèfti me ti dichatèra tu riga, ce ekàmai oftò ‘mere festìno, c’ emìse emìname òdhe me te cciliese èspere.   
+3. Epyàsai ton *garbunàro*, ton edhèai ce ton ekremàsai. Ce o Petru eprandèfti me ti dichatèra tu riga, ce ekàmai oftò ‘mere festìno, c’ emìse emìname òdhe me te cciliese èspere.   
 
-- Ce emise eminame me tin cilia èspera, *sèntsa* fagia ce *sentsa* krasì ce *dinèrya*. 
+4. Ce emise eminame me tin cilia èspera, *sèntsa* fagia ce *sentsa* krasì ce *dinèrya*. 
 
-- Ce emise eminame òde *sentsa* èna *grano* na payèspome tes *tàssese* tu kuvèrnu. 
+5. Ce emise eminame òde *sentsa* èna *grano* na payèspome tes *tàssese* tu kuvèrnu. 
