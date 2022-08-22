@@ -20,6 +20,15 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 - Miejsce akcentu może się zmienić, jak w słowach: kardìa (serce), pedìa (dzieci, chłopcy), fotìa (ogień). 
 - Końcowy dźwięk s często zanika. Dzieje się tak np. w rzeczownikach męskich (w mianowniku l. poj. i bierniku l.mn): Ο λύκος, τους λύκους → o liko, tus liku. Ο παππούς, τους παππούδες → o pappù, tus pappùdu. Podobnie zachowuje się s w dopełniaczu rodzaju żeńskiego. 
 - Niekiedy do s na końcu wyrazu, dodaje się *e*, np. w formach czasownika έκανες → èkamèse, κάνεις → kannise, έχεις→echise.
+- Końcowy dźwięk s często zanika. Dzieje się tak np. w rzeczownikach męskich (w mianowniku l. poj. i bierniku l.mn): Ο λύκος (wilk), τους λύκους → o liko, tus liku. Ο παππούς (dziadek), τους παππούδες → o pappù, tus pappùdu. Podobnie zachowuje się s w dopełniaczu rodzaju żeńskiego. 
+- Niekiedy do s na końcu wyrazu, dodaje się *e*, np. w formach czasownika έκανες → èkamese, κάνεις → kannise, έχεις→echise.
+- Niektóre spółgłoski zanikają. Dotyczy to np. przeczenia czasownika δεν, gdzie może zniknąć zarówno dźwięk *d*, jak i *n*, np.: δεν έρχεται (nie przychodzi) może brzmieć: 'en èrkete. δεν πάω →'e ppao. δεν είμαι →'en imme.
+- W dopełniaczu l.mn. rodzajnik των zastępuje tos.
+- Trzecia os. l.mn czasownika w czasie teraźniejszym zachowuje archaiczną końcówkę  -usi (-ουσι), np. έχουν- èchusi, κάνουν-kànnusi.  
+- W greko nie ma czasu przyszłego. Aby mówić o przyszłości, używamy czasu teraźniejszego, np. avri pame (jutro pójdziemy), su grafo avri (napiszę do ciebie jutro). 
+- Po łączniku «να» zawsze stawiamy czasownik z tematem aorystu: agapao na gràspo.
+- Cząstka «τι» może przyjmować różne funkcje składniowe. Np. w zdaniu złożonym może znaczyć „że”: Su lego ti èrkete. (Mówię ci, że przyjdzie). Tu fènete ti kanni ulla ta pràmata. (Wydaje mu się, że robi wszystkie rzeczy).
+
  
 
 
