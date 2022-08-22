@@ -30,6 +30,12 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 - Cząstka τι może przyjmować różne funkcje składniowe. Np. w zdaniu złożonym może znaczyć „że”: Su lego ti èrkete. (Mówię ci, że przyjdzie). Tu fènete ti kanni ulla ta pràmata. (Wydaje mu się, że robi wszystkie rzeczy).
 - Część słownictwa w ogóle nie przypomina słów nowogreckich i trzeba je zapamiętać, np. πατέρας (ojciec) to w greko ciuri, αδελφός (brat) to leddè, κότα (kura) → pudda, βουνό (góra) → ozzìa, κάτι (coś) → ticandì, κάπου (gdzieś) → pucambù. W zapamiętaniu niektórych słów pomaga etymologia ciuri pochodzi od greckiego κύριος, a czasownik plateguo (mówię) ma związek z rzeczownikiem πλατεία (plac) i przymiotnikiem πλατύς (szeroki), chodzi bowiem o mówienie do grupy ludzi.  
 
+Odmianę czasownika w czasie teraźniejszym jest regularna, ale cechuje ją kilka obocznych wariantów tej samej formy. 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
  
 
 
