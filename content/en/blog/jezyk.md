@@ -62,14 +62,14 @@ Odmianę czasownika w czasie teraźniejszym jest regularna, ale często występu
 
 ### Urywki z grecko-kalabryjskich opowieści. 
 
-W wydaniu uwzględniono cechy języka mówionego, zapisano je tak, jak usłyszano od użytkowników języka. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego. 
+W zapisie uwzględniono cechy języka mówionego. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego, które oznaczyłam kursywą. 
 
-- Ce o pòverose èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
+- Ce o *pòverose* èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
 
-- Ta leddidhiatu, pu etheliai ti rròba, epigai sti llimòsina. Ecinose èmine me te pplusiestu ce kuntènto, ce egò ode ya na gràspo. E ppassemmèno mesimèri ce den èfaga akomi. 
+- Ta leddidhiatu, pu etheliai ti *rròba*, epigai sti llimòsina. Ecinose èmine me te pplusiestu ce *kuntènto*, ce egò ode ya na gràspo. E ppassemmèno mesimèri ce den èfaga akomi. 
 
-- Epyàsai ton garbunàro, ton edhèai ce ton ekremàsai. Ce o Petru eprandèfti me ti dichatèra tu riga, ce ekàmai oftò ‘mere festìno, c’ emìse emìname òdhe me te cciliese èspere.   
+- Epyàsai ton *garbunàro*, ton edhèai ce ton ekremàsai. Ce o Petru eprandèfti me ti dichatèra tu riga, ce ekàmai oftò ‘mere festìno, c’ emìse emìname òdhe me te cciliese èspere.   
 
-- Ce emise eminame me tin cilia èspera, sèntsa fagia ce sentsa krasì ce dinèrya. 
+- Ce emise eminame me tin cilia èspera, *sèntsa* fagia ce *sentsa* krasì ce *dinèrya*. 
 
-- Ce emise eminame òde sentsa èna grano na payèspome tes tàssese tu kuvèrnu. 
+- Ce emise eminame òde *sentsa* èna *grano* na payèspome tes *tàssese* tu kuvèrnu. 
