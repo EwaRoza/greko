@@ -44,25 +44,27 @@ Odmiana czasownika w czasie teraźniejszym jest regularna, ale często występuj
 
 ### Proste dialogi w greko: 
 
-– Egò kràzome Marìa. – Esù po kràzese? 
+– - Egò kràzome Marìa. – Esù po kràzese? 
 
-– Pos isse? – Imme kalò / kalì.  
+– - Pos isse? – Imme kalò / kalì.  
 
-– Pu stèkise? – Steko sto Chorìo tu Vunìou. 
+– - Pu stèkise? – Steko sto Chorìo tu Vunìou.
 
-– Egò kràzome Paskàli ce imme enan pedì. Imme an ton Vua, grafo, meletào ce metrào sta greka. 
+– - Egò kràzome Paskàli ce imme enan pedì. Imme an ton Vua, grafo, meletào ce metrào sta greka. 
 
-– Thèlise enan kafè? – Manè / Udè.
+– - Thèlise enan kafè? – Manè / Udè.
 
-– Ti imera ene? Sìmero ene pesti.
+– - Ti imera ene? Sìmero ene pesti.
 
-– Kalimèra, pappù, pu pàite me ton gàdaro? – Pao stin ozzìa, angònimu, c’esù? – Ciola egò.
+– - Kalimèra, pappù, pu pàite me ton gàdaro? – Pao stin ozzìa, angònimu, c’esù? – Ciola egò.
 
-– Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
+– - Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
 ### Urywki z grecko-kalabryjskich opowieści. 
 
 W zapisie uwzględniono cechy języka mówionego. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego, które oznaczyłam kursywą. 
+
+Cytowane tu zakończenia bajek wskazują, z jak wielką biedą zmagali się mieszkańcy Kalabrii. 
 
 1. Ce o *pòverose* èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
 
