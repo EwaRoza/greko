@@ -19,7 +19,7 @@ languages:
     weight: 1
     languageName: "English"
     params:
-      introTitle: "Hey! I'm Katheryn Fox"
+      introTitle: "Greko, czyli grecko-kalabryjski, to jeden z wariantów języka greckiego"
       introSubtitle: "W historii języka greko i mówiącej nim społeczności splata się wiele wątków, których znaczenie wykracza poza granice Kalabrii. Refleksja nad kulturą grekańską skłania do zadania pytania o wartość tradycji skonfrontowanej z obietnicami, jakie roztaczają hasła nowoczesności i postępu. Historia Grekan może nas także przestrzec przed spustoszeniem i stratami, które mogą zasiać z jednej strony źle rozumiana modernizacja, a z drugiej bezrefleksyjna nostalgia za przeszłością. W końcu, rozmowa o greko to wzięcie strony słabszych: pozwala zawiesić neoliberalną logikę zysku, zgodnie z którą warto inwestować czas i wysiłek tylko w te języki i kultury, które szybko przełożą się na łatwe do zmierzenia korzyści."
       introPhoto: "/picture.jpg"
       logo: "/blist-logo.png"
