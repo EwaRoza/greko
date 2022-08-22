@@ -27,7 +27,8 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 - Trzecia os. l.mn czasownika w czasie teraźniejszym zachowuje archaiczną końcówkę  -usi (-ουσι), np. έχουν- èchusi, κάνουν-kànnusi.  
 - W greko nie ma czasu przyszłego. Aby mówić o przyszłości, używamy czasu teraźniejszego, np. avri pame (jutro pójdziemy), su grafo avri (napiszę do ciebie jutro). 
 - Po łączniku «να» zawsze stawiamy czasownik z tematem aorystu: agapao na gràspo.
-- Cząstka «τι» może przyjmować różne funkcje składniowe. Np. w zdaniu złożonym może znaczyć „że”: Su lego ti èrkete. (Mówię ci, że przyjdzie). Tu fènete ti kanni ulla ta pràmata. (Wydaje mu się, że robi wszystkie rzeczy).
+- Cząstka τι może przyjmować różne funkcje składniowe. Np. w zdaniu złożonym może znaczyć „że”: Su lego ti èrkete. (Mówię ci, że przyjdzie). Tu fènete ti kanni ulla ta pràmata. (Wydaje mu się, że robi wszystkie rzeczy).
+- Część słownictwa w ogóle nie przypomina słów nowogreckich i trzeba je zapamiętać, np. πατέρας (ojciec) to w greko ciuri, αδελφός (brat) to leddè, κότα (kura) → pudda, βουνό (góra) → ozzìa, κάτι (coś) → ticandì, κάπου (gdzieś) → pucambù. 
 
  
 
