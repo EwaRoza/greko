@@ -19,10 +19,12 @@ Petrelli, jak wcześniej Riis, zrobił karierę reporterską na swoich wojerysty
 
 {{< figure src="/greko/africo3.jpg" title="Budynek szkoły podstawowej w Africo w 2021 r. - 70 lat po opuszczeniu miejscowości." >}}
 
-{{< figure src="/greko/africo5.jpg" title="Kościół p.w. Świętego Zbawiciela (San Salvatore) w Africo" >}}
+{{< figure src="/greko/africo5.jpg" title="Kościół p.w. Świętego Zbawiciela (San Salvatore) w Africo." >}}
+
+{{< figure src="/greko/casalinuovo.jpg" title="Na pierwszym planie ruiny Casalinuovo, w oddali Africo." >}}
 
 {{< figure src="/greko/africo7.jpg" title="Mur i brama cmentarza.">}}
 
-{{< figure src="/greko/africo6.jpg" title="Romeo Santoro, syn Giuseppego, ur. 10.12.1912, zm. 2.11.1954" >}}
+{{< figure src="/greko/africo6.jpg" title="Romeo Santoro, syn Giuseppego, ur. 10.12.1912, zm. 2.11.1954." >}}
 
 {{< figure src="/greko/Petrelli.jpg" title="Fotografia Tina Petrellego, 1948 r." >}}
