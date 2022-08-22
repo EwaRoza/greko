@@ -25,4 +25,6 @@ Zabójcza dla języka greko okazała polityka kulturalna reżymu faszystowskiego
 
 Dopiero w 1999 roku parlament przyjął ustawę o ochronie języków mniejszościowych, wśród nich znalazł się język grecko-kalabryjski. Oficjalne uznanie greko za pełnoprawny język ma ogromne znacznie dla jego statusu, jednak nie powstrzymało spadku liczby użytkowników. Zatem w przeciągu XX wieku dekada po dekadzie grecki wycofywał się z kolejnych obszarów życia, by stać się mową pasterzy zamieszkujących odległe zakątki gór. Do dziś przetrwał w szczątkowej formie w kilku miejscowościach położonych nieopodal doliny rzeki Amendolei: przede wszystkim w Bovie, Roghudi i Gallicianò. Płynnie mówi nim kilkadziesiąt osób. 
 
+{{< figure src="/greko/fresk.JPG" title="Fragmenty bizantyńskiego fresku w okolicy zamku San Niceto" >}}
 
+{{< figure src="/greko/stilo.jpg" title="Katolikon: niewielki kościół bizantyński w miejscowości Stilo, datowany na IX-X w." >}}
