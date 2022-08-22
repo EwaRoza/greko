@@ -32,14 +32,14 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 
 Odmianę czasownika w czasie teraźniejszym jest regularna, ale cechuje ją kilka obocznych wariantów tej samej formy. 
 
-| Osoba | Eimai - być | 
-| ----------- | ----------- |
-| Egò | imme / immo | 
-| Esù | isse / isso |
-| Ecino / ecini / ecino | ene
-|Emìs | ìmmesta / ìmmaste / ìmmasto
-|Esìs | iste
-|Ecini, ecine, ecina | ene
+| Osoba | Imme - być | Echo - mieć |
+| ----------- | ----------- |----------- |
+| Egò | imme / immo | echo
+| Esù | isse / isso | èchise
+| Ecino / ecini / ecino | ene | echi
+|Emìs | ìmmesta / ìmmaste / ìmmasto | èchome
+|Esìs | iste | èchite
+|Ecini, ecine, ecina | ene | èchu(si)
 
 
 
