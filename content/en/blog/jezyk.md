@@ -1,6 +1,6 @@
 ---
 author: "Ewa Janion"
-title: "Na platespome"
+title: "Na platespome sta greka"
 description: "Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
