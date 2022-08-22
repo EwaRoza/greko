@@ -44,21 +44,21 @@ Odmiana czasownika w czasie teraźniejszym jest regularna, ale często występuj
 
 ### Proste dialogi w greko: 
 
-– - Egò kràzome Marìa. – Esù po kràzese? 
+1. - Egò kràzome Marìa. – Esù po kràzese? 
 
-– - Pos isse? – Imme kalò / kalì.  
+2. - Pos isse? – Imme kalò / kalì.  
 
-– - Pu stèkise? – Steko sto Chorìo tu Vunìou.
+3. - Pu stèkise? – Steko sto Chorìo tu Vunìou.
 
-– - Egò kràzome Paskàli ce imme enan pedì. Imme an ton Vua, grafo, meletào ce metrào sta greka. 
+4. - Egò kràzome Paskàli ce imme enan pedì. Imme an ton Vua, grafo, meletào ce metrào sta greka. 
 
-– - Thèlise enan kafè? – Manè / Udè.
+5. - Thèlise enan kafè? – Manè / Udè.
 
-– - Ti imera ene? Sìmero ene pesti.
+6. - Ti imera ene? Sìmero ene pesti.
 
-– - Kalimèra, pappù, pu pàite me ton gàdaro? – Pao stin ozzìa, angònimu, c’esù? – Ciola egò.
+7. - Kalimèra, pappù, pu pàite me ton gàdaro? – Pao stin ozzìa, angònimu, c’esù? – Ciola egò.
 
-– - Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
+8. - Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
 ### Urywki z grecko-kalabryjskich opowieści. 
 
