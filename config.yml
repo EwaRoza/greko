@@ -20,9 +20,9 @@ languages:
     languageName: "English"
     params:
       introTitle: "Po co nam greko?"
-      introSubtitle: "Greko (grekański, grecko-kalabryjski) to język z południowej Kalabrii. 
+      introSubtitle: "Greko (grekański, grecko-kalabryjski) to tradycyjny język mieszkańców kilku miejscowości w południowej Kalabrii. Liczba jego użytkowników stale spada - w XX wieku przestał być przekazywany następnym pokoleniom, coraz mniej osób potrafi i chce nim mówić. Przyszłość greko jest bardzo niepewna.   
       
-      W historii greko i mówiącej nim społeczności splata się wiele wątków, których znaczenie wykracza poza granice Kalabrii. Refleksja nad kulturą grekańską skłania do zadania pytania o wartość tradycji skonfrontowanej z obietnicami, jakie roztaczają hasła nowoczesności i postępu. Historia Grekan może nas także przestrzec przed spustoszeniem i stratami, które mogą zasiać z jednej strony źle rozumiana modernizacja, a z drugiej bezrefleksyjna nostalgia za przeszłością. W końcu, rozmowa o greko to wzięcie strony słabszych: pozwala zawiesić neoliberalną logikę zysku, zgodnie z którą warto inwestować czas i wysiłek w poznawanie tylko tych języków i kultur, które szybko przełożą się na łatwe do zmierzenia korzyści."
+      W historii greko i mówiącej nim społeczności splata się wiele wątków, których znaczenie wykracza poza granice regionu. Refleksja nad kulturą grekańską skłania do zadania pytania o wartość tradycji skonfrontowanej z obietnicami, jakie roztaczają hasła nowoczesności i postępu. Historia Grekan może nas także przestrzec przed spustoszeniem i stratami, które mogą zasiać z jednej strony źle rozumiana modernizacja, a z drugiej bezrefleksyjna nostalgia za przeszłością. W końcu, rozmowa o greko to wzięcie strony słabszych: pozwala zawiesić neoliberalną logikę zysku, zgodnie z którą warto inwestować czas i wysiłek w poznawanie tylko tych języków i kultur, które szybko przełożą się na łatwe do zmierzenia korzyści."
       introPhoto: "/picture.jpg"
 #      logo: "/blist-logo.png"
     menu:
