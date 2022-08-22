@@ -45,11 +45,29 @@ Odmianę czasownika w czasie teraźniejszym jest regularna, ale często występu
 Proste dialogi w greko: 
 
 – Egò kràzome Marìa. – Esù po kràzese? 
+
 – Pos isse? – Imme kalò / kalì.  
+
 – Pu stèkise? – Steko sto Chorìo tu Vunìou. 
+
 – Egò kràzome Paskàli ce imme enan pedì. Imme an ton Vua, grafo, meletào ce metrào sta greka. 
+
 – Thèlise enan kafè? – Manè / Udè.
+
 – Ti imera ene? Sìmero ene pesti.
+
 – Kalimèra, pappù, pu pàite me ton gàdaro? – Pao stin ozzìa, angònimu, c’esù? – Ciola egò.
+
 – Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
+Urywki z grecko-kalabryjskich opowieści. W wydaniu uwzględniono cechy języka mówionego - zapisano je tak, jak usłyszano od użytkowników języka. Warto zwrócić uwagę na słowa z romańskie, zapożyczone z języka (dialektu) kalabryjskiego. 
+
+- Ce o pòverose èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
+
+- Ta leddidhiatu, pu etheliai ti rròba, epigai sti llimòsina. Ecinose èmine me te pplusiestu ce kuntènto, ce egò ode ya na gràspo. E ppassemmèno mesimèri ce den èfaga akomi. 
+
+- Epyàsai ton garbunàro, ton edhèai ce ton ekremàsai. Ce o Petru eprandèfti me ti dichatèra tu riga, ce ekàmai oftò ‘mere festìno, c’ emìse emìname òdhe me te cciliese èspere.   
+
+- Ce emise eminame me tin cilia èspera, sèntsa fagia ce sentsa krasì ce dinèrya. 
+
+- Ce emise eminame òde sentsa èna grano na payèspome tes tàssese tu kuvèrnu. 
