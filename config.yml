@@ -63,7 +63,7 @@ params:
   description: 'Greko description'
   author: Ewa Janion
   # author: ["Me", "You"] # multiple authors
-  ascentColor: bg-slate-200
+  ascentColor: bg-gray-100
 
   hideMeta: true
 
