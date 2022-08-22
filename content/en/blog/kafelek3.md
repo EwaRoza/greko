@@ -28,4 +28,4 @@ Dziś w Bovie na stałe mieszka około 200 osób, mniej niż jedna dziesiąta po
 
 {{< figure src="/greko/lear3.jpg" title="Bova w 1847 r. Rycina Edwarda Leara.">}}
 
-{{< figure src="/greko/marzano.jpg" title="Pałac Marzano (Nesci) - widok dzisiejszy.">}}
+{{< figure src="/greko/bova3.jpg" title="Pałac Marzano (Nesci) - widok dzisiejszy.">}}
