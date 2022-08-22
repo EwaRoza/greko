@@ -11,4 +11,9 @@ Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim. Od języka n
 
 Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany: 
 
-Αυτή είναι μια φράση στα ελληνικά για να δούμε αν η παγίδα λειτουργεί σωστά. 
+- Spółgłoska zapisywana po nowogrecku literą ζ i wymawiana *z*, w greko wymawia się jak polskie *dz* i zapisuje z. Np. czasownik ζω (żyję) wymawiamy *dzijo*, a zapisujemy: zìο. 
+- Zbitka spółgłosek zapisywana po nowogrecku literą ξ i wymawiana *ks*, w greko wymawia się jak polskie *sz* lub *c* - w zależności od lokalnego wariantu. Np. przymiotnik ξερός (suchy) wymawiamy *szerò*, a ξύλο (drewno) *cilo*. Stosuje się zapisy scerò, tsilo. 
+- Zbitka spółgłosek zapisywana po grecku literą ψ i wymawiana *ps*, w greko wymawia się *sp*. Np.  ψωμί (chleb) wymawiamy: *spomì*.
+- Nowogreckie κι lub κε / και wymawiane jako miękkie *ki* lub *kie* czytamy *czi* lub *cze*, np. καίω w greko wymawiamy *czeo*. 
+
+
