@@ -27,3 +27,5 @@ Dziś w Bovie na stałe mieszka około 200 osób, mniej niż jedna dziesiąta po
 [^1]: Edward Lear, *Journals of a Landscape Painter in Southern Calabria*, London 1852 s. 39-40. (Tł. z ang. E.J.)
 
 {{< figure src="/greko/lear3.jpg" title="Bova w 1847 r. Rycina Edwarda Leara.">}}
+
+{{< figure src="/greko/marzano.jpg" title="Pałac Marzano (Nesci) - widok dzisiejszy.">}}
