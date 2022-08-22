@@ -27,4 +27,4 @@ Dopiero w 1999 roku parlament przyjął ustawę o ochronie języków mniejszośc
 
 {{< figure src="/greko/fresk.JPG" title="Fragmenty bizantyńskiego fresku w okolicy zamku San Niceto" >}}
 
-{{< figure src="/greko/stilo.jpg" title="Katolikon: niewielki kościół bizantyński w miejscowości Stilo, datowany na IX-X w." >}}
+{{< figure src="/greko/stilo.JPG" title="Katolikon: niewielki kościół bizantyński w miejscowości Stilo, datowany na IX-X w." >}}
