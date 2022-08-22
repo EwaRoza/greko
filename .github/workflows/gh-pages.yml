@@ -22,8 +22,8 @@ jobs:
     - name: Copy package.json and package-lock.json
       run: cp themes/blist/package*.json .
 
-    -name: copy site.css
-     run: cp assets/css/site.css themes/blist/assets/css/site.css
+    - name: copy site.css
+      run: cp assets/css/site.css themes/blist/assets/css/site.css
 
     - name: Setup npm
       uses: actions/setup-node@v3
