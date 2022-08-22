@@ -20,7 +20,7 @@ languages:
     languageName: "English"
     params:
       introTitle: "Greko"
-      introSubtitle: "W historii języka greko i mówiącej nim społeczności splata się wiele wątków, których znaczenie wykracza poza granice Kalabrii. Refleksja nad kulturą grekańską skłania do zadania pytania o wartość tradycji skonfrontowanej z obietnicami, jakie roztaczają hasła nowoczesności i postępu. Historia Grekan może nas także przestrzec przed spustoszeniem i stratami, które mogą zasiać z jednej strony źle rozumiana modernizacja, a z drugiej bezrefleksyjna nostalgia za przeszłością. W końcu, rozmowa o greko to wzięcie strony słabszych: pozwala zawiesić neoliberalną logikę zysku, zgodnie z którą warto inwestować czas i wysiłek tylko w te języki i kultury, które szybko przełożą się na łatwe do zmierzenia korzyści."
+      introSubtitle: "W historii języka greko i mówiącej nim społeczności splata się wiele wątków, których znaczenie wykracza poza granice Kalabrii. Refleksja nad kulturą grekańską skłania do zadania pytania o wartość tradycji skonfrontowanej z obietnicami, jakie roztaczają hasła nowoczesności i postępu. Historia Grekan może nas także przestrzec przed spustoszeniem i stratami, które mogą zasiać z jednej strony źle rozumiana modernizacja, a z drugiej bezrefleksyjna nostalgia za przeszłością. W końcu, rozmowa o greko to wzięcie strony słabszych: pozwala zawiesić neoliberalną logikę zysku, zgodnie z którą warto inwestować czas i wysiłek w poznawanie tylko tych języków i kultur, które szybko przełożą się na łatwe do zmierzenia korzyści."
       introPhoto: "/picture.jpg"
 #      logo: "/blist-logo.png"
     menu:
