@@ -65,6 +65,8 @@ params:
   # author: ["Me", "You"] # multiple authors
   ascentColor: bg-slate-200
 
+  hideMeta: true
+
   ShowReadingTime: true
   ShowShareButtons: false
   comments: false
