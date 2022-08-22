@@ -25,3 +25,4 @@ Petrelli, jak wcześniej Riis, zrobił karierę reporterską na swoich wojerysty
 
 {{< figure src="/greko/africo6.jpg" title="Romeo Santoro, syn Giuseppego, ur. 10.12.1912, zm. 2.11.1954" >}}
 
+{{< figure src="/greko/petrelli.jpg" title="Fotografia Tina Petrellego, 1948 r." >}}
