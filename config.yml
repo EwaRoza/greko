@@ -63,6 +63,7 @@ params:
   description: 'Greko description'
   author: Ewa Janion
   # author: ["Me", "You"] # multiple authors
+  ascentColor: slate-200
 
   ShowReadingTime: true
   ShowShareButtons: false
