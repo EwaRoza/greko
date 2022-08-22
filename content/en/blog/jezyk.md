@@ -36,10 +36,20 @@ Odmianę czasownika w czasie teraźniejszym jest regularna, ale często występu
 | ----------- | ----------- |----------- |
 | Egò | imme / immo | echo
 | Esù | isse / isso | èchise
-| Ecino / ecini / ecino | ene | echi
+| Ecino, ecini, ecino | ene | echi
 |Emìs | ìmmesta / ìmmaste / ìmmasto | èchome
 |Esìs | iste | èchite
-|Ecini, ecine, ecina | ene | èchu(si)
+|Ecini, ecine, ecina | ene | èchu / èchusi
 
 
+Proste dialogi w greko: 
+
+– Egò kràzome Marìa. – Esù po kràzese? 
+– Pos isse? – Imme kalò / kalì.  
+– Pu stèkise? – Steko sto Chorìo tu Vunìou. 
+– Egò kràzome Paskàli ce imme enan pedì. Imme an ton Vua, grafo, meletào ce metrào sta greka. 
+– Thèlise enan kafè? – Manè / Udè.
+– Ti imera ene? Sìmero ene pesti.
+– Kalimèra, pappù, pu pàite me ton gàdaro? – Pao stin ozzìa, angònimu, c’esù? – Ciola egò.
+– Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
