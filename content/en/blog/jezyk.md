@@ -42,7 +42,7 @@ Odmianę czasownika w czasie teraźniejszym jest regularna, ale często występu
 |Ecini, ecine, ecina | ene | èchu / èchusi
 
 
-Proste dialogi w greko: 
+### Proste dialogi w greko: 
 
 – Egò kràzome Marìa. – Esù po kràzese? 
 
@@ -60,7 +60,9 @@ Proste dialogi w greko:
 
 – Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
-Urywki z grecko-kalabryjskich opowieści. W wydaniu uwzględniono cechy języka mówionego - zapisano je tak, jak usłyszano od użytkowników języka. Warto zwrócić uwagę na słowa z romańskie, zapożyczone z języka (dialektu) kalabryjskiego. 
+### Urywki z grecko-kalabryjskich opowieści. 
+
+W wydaniu uwzględniono cechy języka mówionego, zapisano je tak, jak usłyszano od użytkowników języka. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego. 
 
 - Ce o pòverose èmine plùso, ce egò imme òde, pethammèno àse pina ce àse sprichada.
 
