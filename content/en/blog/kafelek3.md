@@ -25,3 +25,5 @@ Lear zauważa również rosnące napięcie między mieszkańcami starego górski
 Dziś w Bovie na stałe mieszka około 200 osób, mniej niż jedna dziesiąta populacji z przełomu XIX i XX wieku. Miasto odżywa w lecie, gdy do starych domów zjeżdżają się rodziny, przybywają działkowicze i turyści. Chociaż ma nielicznych mieszkańców, Bova jest teraz turystyczną perełką – przyciąga gości dzięki statusowi historycznej grekańskiej stolicy, ruinom zamku, a także urokowi słonecznych placów i przytulnych uliczek. W Bovie przecina się kilka turystycznych szlaków pieszych po górach Aspromonte, jeden z nich to „il sentiero dell’Inglese”, „ścieżka Anglika”, po śladach wyprawy Edwarda Leara. 
 
 [^1]: Edward Lear, *Journals of a Landscape Painter in Southern Calabria*, London 1852 s. 39-40. (Tł. z ang. E.J.)
+
+{{< figure src="/greko/lear2.png" title="Rycina na podstawie szkicu Edwarda Leara.">}}
