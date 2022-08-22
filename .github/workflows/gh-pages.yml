@@ -25,6 +25,9 @@ jobs:
     - name: copy site.css
       run: cp assets/css/site.css themes/blist/assets/css/site.css
 
+    - name: fix color identification
+      run: sed -i -e 's#"config.toml"#"config.toml","config.yml"#' themes/blist/assets/css/tailwind.config.js 
+  
     - name: Setup npm
       uses: actions/setup-node@v3
       with:
