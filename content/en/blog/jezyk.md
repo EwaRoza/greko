@@ -11,3 +11,4 @@ Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim. Od języka n
 
 Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany: 
 
+Αυτή είναι μια φράση στα ελληνικά για να δούμε αν η παγίδα λειτουργεί σωστά. 
