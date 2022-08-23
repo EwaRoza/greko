@@ -12,7 +12,7 @@ Dzisiejsze mapy nie oddają dawnej topografii obszaru kultury grekańskiej. Asfa
 
 ## Bova w 1847 i 2022
 
-Angielski pejzażysta, rysownik i poeta Edward Lear bawił w Kalabrii w połowie XIX wieku, a jego dzienniki są cennym źródłem informacji o dawnej Kalabrii. 
+Angielski pejzażysta, rysownik i poeta Edward Lear bawił w Kalabrii w połowie XIX wieku. Wyruszywszy z Reggio, kierował się przez góry na wschód, a potem na północ aż do Stilo.   
 
 Na litografii Bova przytłacza surowy górski pejzaż.  W górze kompozycji można rozpoznać boviańską katedrę, w jego centralnej, ciemnej części masywną, pozbawioną ozdób, nieco złowrogą bryłę pałacu Marzano, dzisiaj zasłoniętą od zachodniej strony nowszymi zabudowaniami. Brama do pałacu, jedno z rozpoznawalnych miejsc w Bovie, znajduje się obecnie na uboczu, poniżej centralnego placu. W czasach wyprawy malarza tamtędy musiała biec główna droga do miasta. Poniżej pałacu widać inny punkt orientacyjny - kościół p.w. św. Rocha z charakterystyczną dzwonnicą. Lear wyeksponował wzniosłość skalistego, górskiego pejzażu i widocznych w tle aspromonckich szczytów, w które niemalże wtopione są miejskie zabudowania. Odwrócone tyłem, zajęte własnymi sprawami postaci na pierwszym planie to typowy element romantycznego malarstwa – sztafaż pokazuje ludzi jako element krajobrazu, wcale nie najważniejszy i zaprasza do refleksji o naszym miejscu w świecie. 
 
