@@ -32,7 +32,7 @@ languages:
           url: "blog"
           weight: 1
         -
-          name: "About"
+          name: "o stronie"
           url: "page/about/"
           weight: 2
         -
