@@ -7,8 +7,23 @@ date: 2021-07-14
 thumbnail: /greko/roccaforte.jpg
 ---
 
-Spis treści
-1. [Charakterystyka języka greko](#Charakterystyka języka greko)
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
 
 ###Charakterystyka języka greko <a name="Charakterystyka języka greko"></a>
 Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim. Od języka nowogreckiego różni się przede wszystkim słownictwem oraz wymową głosek. Jego fonetyka jest skomplikowana także dlatego, że istnieje kilka zdecydowanie różnych wariantów wymowy słów, gramatyka jest zaś nieco prostsza od nowogreckiej. Podobieństwo między językami jest na tyle duże, że świadoma tych różnic osoba mówiąca po nowogrecku często może domyślić się znaczenia wielu słów i zdań w greko.      
