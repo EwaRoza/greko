@@ -9,22 +9,8 @@ thumbnail: /greko/roccaforte.jpg
 
 ### Spis treści
 1. [O greko](#o-greko) <!-- tytuł, małymi literami, z myślnikiem zamiast spacji, polskie znaki ok -->
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
+2. [Proste dialogi w greko](#proste-dialogi-w-greko)
+3. [Urywki z grecko-kalabryjskich opowieści](#urywki-z-grecko-kalabryjskich-opowieści)
 
 ### O greko
 Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim. Od języka nowogreckiego różni się przede wszystkim słownictwem oraz wymową głosek. Jego fonetyka jest skomplikowana także dlatego, że istnieje kilka zdecydowanie różnych wariantów wymowy słów, gramatyka jest zaś nieco prostsza od nowogreckiej. Podobieństwo między językami jest na tyle duże, że świadoma tych różnic osoba mówiąca po nowogrecku często może domyślić się znaczenia wielu słów i zdań w greko.      
@@ -62,7 +48,7 @@ Odmiana czasownika w czasie teraźniejszym jest regularna, ale często występuj
 |Ecini, ecine, ecina | ene | èchu / èchusi
 
 
-### Proste dialogi w greko: 
+### Proste dialogi w greko 
 
 1. – Egò kràzome Marìa. – Esù po kràzese? 
 
@@ -80,7 +66,7 @@ Odmiana czasownika w czasie teraźniejszym jest regularna, ale często występuj
 
 8. – Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
-### Urywki z grecko-kalabryjskich opowieści. 
+### Urywki z grecko-kalabryjskich opowieści 
 
 W zapisie uwzględniono cechy języka mówionego. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego, które oznaczyłam kursywą. 
 
