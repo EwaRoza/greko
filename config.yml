@@ -28,17 +28,17 @@ languages:
     menu:
       main:
         -
-          name: "Blog"
+          name: "Posty"
           url: "blog"
           weight: 1
         -
           name: "O stronie"
           url: "/about/"
           weight: 2
-        -
-         name: "Tags"
-         url: "tags"
-         weight: 3
+#        -
+#         name: "Tags"
+#         url: "tags"
+#         weight: 3
 #        -
 #          name: "Top Post"
 #          url: "/en/blog/emoji-support/"
