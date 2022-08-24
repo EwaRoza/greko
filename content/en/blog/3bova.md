@@ -13,7 +13,7 @@ Dzisiejsze mapy nie oddają dawnej topografii obszaru kultury grekańskiej. Asfa
 
 ## Bova w 1847 i 2022
 
-Cenne źródło o dziewiętnastowiecznej topografii regionu stanowi ilustrowany dziennik z podróży Edwarda Leara. Lear to człowiek-orkiestra: choć znany jest głównie jako humorzysta i poeta - jego limeryki i absurdalne humoreski bawią polskich czytelników dzięki przekładom Stanisława Barańczaka - był również podróżnikiem i pejzażystą, który szczególnie upodobał sobie południowe rubieże Europy. Latem 1847 roku wyruszył z Reggio na pionirską wyprawę do Kalabrii.
+Cenne źródło o dziewiętnastowiecznej topografii regionu stanowi ilustrowany dziennik z podróży Edwarda Leara. Lear to człowiek-orkiestra: choć znany jest głównie jako humorzysta i poeta - jego limeryki i absurdalne humoreski bawią polskich czytelników dzięki przekładom Stanisława Barańczaka - był również podróżnikiem i pejzażystą, który szczególnie upodobał sobie południowe rubieże Europy. Latem 1847 roku wyruszył z Reggio na pionierską wyprawę do Kalabrii.
 
 To Bova, centrum kultury grekańskiej, była pierwszym celem kalabryjskiej podróży Leara. Malarz - wraz ze swoim angielskim towarzyszem i lokalnym przewodnikiem wyruszył z Reggio na wschód, ścieżkami przez góry. W mieście został kilka dni, goszczony przez szlachecką rodzinę Marzano. Tam też miał dogodne warunki, skupić się na rysowaniu. 
 
