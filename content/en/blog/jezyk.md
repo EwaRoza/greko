@@ -9,8 +9,9 @@ thumbnail: /greko/roccaforte.jpg
 
 ### Spis treści
 1. [O greko](#o-greko) <!-- tytuł, małymi literami, z myślnikiem zamiast spacji, polskie znaki ok -->
-2. [Proste dialogi w greko](#proste-dialogi-w-greko)
-3. [Urywki z grecko-kalabryjskich opowieści](#urywki-z-grecko-kalabryjskich-opowieści)
+2. [Odmiana czasownika](#odmiana-czasownika)
+3. [Proste dialogi w greko](#proste-dialogi-w-greko)
+4. [Urywki z grecko-kalabryjskich opowieści](#urywki-z-grecko-kalabryjskich-opowieści)
 
 ### O greko
 Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim. Od języka nowogreckiego różni się przede wszystkim słownictwem oraz wymową głosek. Jego fonetyka jest skomplikowana także dlatego, że istnieje kilka zdecydowanie różnych wariantów wymowy słów, gramatyka jest zaś nieco prostsza od nowogreckiej. Podobieństwo między językami jest na tyle duże, że świadoma tych różnic osoba mówiąca po nowogrecku często może domyślić się znaczenia wielu słów i zdań w greko.      
@@ -36,7 +37,8 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 - Część słownictwa w ogóle nie przypomina słów nowogreckich i trzeba je zapamiętać, np. πατέρας (ojciec) to w greko ciuri, αδελφός (brat) to leddè, κότα (kura) → pudda, βουνό (góra) → ozzìa, κάτι (coś) → ticandì, κάπου (gdzieś) → pucambù. W zapamiętaniu niektórych słów pomaga etymologia ciuri pochodzi od greckiego κύριος, a czasownik plateguo (mówię) ma związek z rzeczownikiem πλατεία (plac) i przymiotnikiem πλατύς (szeroki), chodzi bowiem o mówienie do grupy ludzi.  
 
 
-Odmiana czasownika w czasie teraźniejszym jest regularna, ale często występuje kilka obocznych wariantów tej samej formy. 
+### Odmiana czasownika 
+W czasie teraźniejszym odmiana jest regularna, ale często występuje kilka obocznych wariantów tej samej formy. 
 
 | Osoba | Imme - być | Echo - mieć |
 | ----------- | ----------- |----------- |
