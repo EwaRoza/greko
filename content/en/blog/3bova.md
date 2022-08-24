@@ -37,5 +37,5 @@ Dziś w Bovie na stałe mieszka około 200 osób, mniej niż jedna dziesiąta po
 
 {{< figure src="/greko/lear3.jpg" title="Bova w 1847 r. Rycina Edwarda Leara.">}}
 
-{{< figure src="/greko/bovaphoto.jpg" title="Fotografia na ekspozycji muzeum języka grecko-kalabryjskiego w Bovie.">}}
+{{< figure src="/greko/bovaphoto.JPG" title="Fotografia na ekspozycji muzeum języka grecko-kalabryjskiego w Bovie.">}}
 
