@@ -1,7 +1,7 @@
 ---
 author: "Ludmiła Janion"
 title: "Borghi: Africo i Casalinuovo"
-description: "Africo (lokalsi akcentują na pierwszą sylabę) i Casalnuovo to kalabryjskie osady założone w czasach wczesnośredniowiecznych przez ludność pochodzenia greckiego."
+description: "Africo i Casalnuovo to kalabryjskie osady założone w czasach wczesnośredniowiecznych przez ludność pochodzenia greckiego."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
 thumbnail: /greko/africo2.jpg
