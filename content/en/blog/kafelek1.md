@@ -1,7 +1,7 @@
 ---
 author: "Ewa Janion"
 title: "Dzieje języka greckiego w Kalabrii"
-description: "Dzisiaj językiem greko posługuje się niewiele osób, jednak jego historia sięga epoki starożytnej."
+description: "Dzisiaj językiem greko posługuje się niewiele osób, jednak jego korzenie sięgają epoki starożytnej."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
 thumbnail: /greko/fresk3.JPG
