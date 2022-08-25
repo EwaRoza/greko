@@ -29,7 +29,7 @@ languages:
       main:
         -
           name: "Posty"
-          url: "blog"
+          url: "/"
           weight: 1
         -
           name: "O stronie"
