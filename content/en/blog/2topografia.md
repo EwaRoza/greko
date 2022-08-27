@@ -19,6 +19,8 @@ W XX wieku Kalabria, tak ja całe południe Włoch, mierzyła się z falami emig
 
 W drugiej połowie XX wieku górskie miejscowości szybko pustoszały. Żyzne pola położone na płaskowyżu nad Bovą na 1000 m. n.p.m. porzucono odłogiem w latach 60. Od lat 50. statystyki liczby mieszkańców pokazują systematyczne spadki we wszystkich miejscowościach – każda wyjeżdżająca rodzina skłaniała do wyjazdu sąsiadów, a opuszczenie jednego miasteczka stanowiło nadwerężenie delikatnego ekosystemu. Ważnym powodem wyjazdów były klęski naturalne, ale Salvino Nucera w rozmowie z Vitem Teti ujmuje powody tych decyzji przede wszystkim w kategoriach egzystencjalnych: 
 
-> Bezpośrednią przyczyną opuszczenia Roghudi, Chorio, Africo była powódź, ale decyzja ludzi, by porzucić miejsce urodzenia może wynikała z potrzeby przygody. To było poszukiwanie nie wiadomo czego, jakich celów, jakich ambicji radykalnego odmienienia życia.
+> Bezpośrednią przyczyną opuszczenia Roghudi, Chorio, Africo była powódź, ale decyzja ludzi, by porzucić miejsce urodzenia może wynikała z potrzeby przygody. To było poszukiwanie nie wiadomo czego, jakich celów, jakich ambicji radykalnego odmienienia życia. [^1]
 
 Dzisiaj najważniejsze dla kultury grekańskiej miejscowości często wydają się bezludne: w części z nich tylko niektóre domy są zamieszkałe, w innych – takich jak Roghudi czy Chorio – nikt już nie mieszka na stałe. A jednak miejscowości trwają – działają położone przy nich cmentarze, bo choć starzy mieszkańcy żyją na wybrzeżu, to często pragną być pochowani w rodzinnej ziemi. Kościoły wciąż bywają miejscami kultu. Latem z domów i źródeł korzystają pasterze, odwiedzają je podróżnicy, ktoś dba o sady i ogrody. Tysiącletnia historia wędrówek między wybrzeżem a górami sugeruje, że ich historia jeszcze się nie skończyła. 
+
+[^1]: Vito Teti, Il senso dei luoghi, Roma 2014, s. 77.
