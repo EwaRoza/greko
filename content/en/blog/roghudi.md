@@ -9,3 +9,4 @@ thumbnail: /greko/roghudi10.jpg
 ---
 
 Tutaj będę pisała. 
+{{< figure src="/greko/roghudi9.jpg" title="Stary dom w Roghudi." >}}
