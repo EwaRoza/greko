@@ -25,6 +25,8 @@ Dopiero w 1999 roku parlament przyjął ustawę o ochronie języków mniejszośc
 
 Lingwiści proponowali kilka teorii dotyczących pochodzenia języka greko. Przede wszystkim akcentuje się decydujący wpływ na dzisiejszy kształt grekańskiej mowy mówionego języka bizantyńskiego, a zatem demotyku. W tym ujęciu greko jest jednym z wariantów języka nowogreckiego, z którym istotnie ma bardzo wiele cech wspólnych. Taką teorię wysunął W pierwszych dekadach XX wieku niemiecki językoznawca Gerhard Rholfs wskazał jednak na obecność w greko leksyki starogreckiej, nieobecnej w innych wariantach nowogreckiego, zwłaszcza doryzmów, czyli cech starożytnego dialektu doryckiego. To wskazywałoby, że greckojęzyczna ludność w Kalabrii to potomkowie autochtonicznych mieszkańców tych ziem. Ze względu na estymę, jaką cieszy się cywilizacja antyku, teoria Rholfsa jest ważna dla tożsamości i prestiżu Grekan. 
 
+{{< figure src="/greko/sanniceto.JPG" title="Bizantyński zamek San Niceto oraz widok na Cieśninę Mesyńską i Sycylię." >}}
+
 {{< figure src="/greko/fresk.JPG" title="Fragmenty bizantyńskiego fresku w okolicy zamku San Niceto" >}}
 
 {{< figure src="/greko/stilo.JPG" title="Katolikon: niewielki kościół bizantyński w miejscowości Stilo, datowany na IX-X w." >}}
