@@ -15,6 +15,6 @@ Tutaj będę pisała.
 
 {{< figure src="/greko/roghudi12.JPG" title="Wyjątkowy pejzaż i położenie Roghudi." >}}
 
-{{< figure src="/greko/roghudi11.JPG" title="Wyjątkowy pejzaż i położenie Roghudi. Z lewej strony kadru widać drogę prowadzącą trawersem do Roccaforte del Greko." >}}
+{{< figure src="/greko/roghudi11.JPG" title="Roghudi. Z lewej strony kadru widać drogę prowadzącą trawersem do Roccaforte del Greko." >}}
 
 {{< figure src="/greko/roghudi9.jpg" title="Stary dom w Roghudi." >}}
