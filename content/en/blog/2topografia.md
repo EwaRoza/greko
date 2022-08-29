@@ -23,4 +23,4 @@ W drugiej połowie XX wieku górskie miejscowości szybko pustoszały. Żyzne po
 
 Dzisiaj najważniejsze dla kultury grekańskiej miejscowości często wydają się bezludne: w części z nich tylko niektóre domy są zamieszkałe, w innych – takich jak Roghudi czy Chorio – nikt już nie mieszka na stałe. A jednak miejscowości trwają – działają położone przy nich cmentarze, bo choć starzy mieszkańcy żyją na wybrzeżu, to często pragną być pochowani w rodzinnej ziemi. Kościoły wciąż bywają miejscami kultu. Latem z domów i źródeł korzystają pasterze, odwiedzają je podróżnicy, ktoś dba o sady i ogrody. Tysiącletnia historia wędrówek między wybrzeżem a górami sugeruje, że ich historia jeszcze się nie skończyła. 
 
-[^1]: Vito Teti, Il senso dei luoghi, Roma 2014, s. 77.
+[^1]: Vito Teti, *Il senso dei luoghi*, Roma 2014, s. 77.
