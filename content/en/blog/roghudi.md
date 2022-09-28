@@ -2,7 +2,7 @@
 
 author: "Ewa Janion"
 title: "Borghi: Roghudi i Chorio di Roghudi"
-description: "Dzisiejsze mapy nie oddają dawnej topografii obszaru kultury grekańskiej."
+description: "Odzyskiwanie i rewaloryzacja tożsamości nie polega na próbach przywracania przeszłości, ale na twórczej konstrukcji tradycji i budowaniu nowej formuły wspólnoty. "
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
 thumbnail: /greko/roghudi10a.jpg
