@@ -10,7 +10,7 @@ thumbnail: /greko/roghudi10a.jpg
 
 Roghudi stało się symbolem obszaru kultury grekańskiej. Istotnie nie sposób pomylić go z żadnym innym miastem – przypomina kształtem kolosalną rozgwiazdę, której centrum osiadło na grzbiecie góry, a ramiona sięgają daleko w dół aż do koryta rzeki.
 
-Uliczki i mury Roghudi opowiadają niemalże tysiącletnią historię. Najniżej położone są najstarsze domy, surowe, proste, zbudowane z kamienia, z drewnianymi, niskimi drzwiami i niewielkimi oknami. Dziś ich dachy dawno się pozapadały, pozostały niekiedy krokwie i pojedyncze żerdzie między ścianami. Na zdjęciu z lat 20 ubiegłego wieku stare domy Roghudi wydają się zawieszonymi w pustce, dumnymi twierdzami. Tak o tym mieście myślał Gehrard Rholfs, pochodzący z Niemiec badacz greko, który fotografią zilustrował swój artykuł naukowy z dziedziny językoznawstwa. Położone w sercu gór, trudnodostępne z zewnątrz i rzadko opuszczane przez mieszkańców, Roghudi było w jego ujęciu jednym z ostatnich bastionów starożytnej greki, wciąż wytrwale stawiającym opór kolejnym falom latynizacji. 
+Uliczki i mury Roghudi opowiadają niemalże tysiącletnią historię. Najniżej położone są najstarsze domy, surowe, proste, zbudowane z kamienia, z drewnianymi, niskimi drzwiami i niewielkimi oknami. Dziś ich dachy dawno się pozapadały, pozostały niekiedy krokwie i pojedyncze żerdzie między ścianami. Na zdjęciu z lat 20 ubiegłego wieku stare domy Roghudi wydają się zawieszonymi w pustce, dumnymi twierdzami.[^1] Tak o tym mieście myślał Gehrard Rholfs, pochodzący z Niemiec badacz greko, który fotografią zilustrował swój artykuł naukowy z dziedziny językoznawstwa. Położone w sercu gór, trudnodostępne z zewnątrz i rzadko opuszczane przez mieszkańców, Roghudi było w jego ujęciu jednym z ostatnich bastionów starożytnej greki, wciąż wytrwale stawiającym opór kolejnym falom latynizacji. 
 
 Od czasów Rohlfsa Roghudi znacznie się rozrosło. Z pustaków i betonu wybudowano nowe domy, przestronne i piętrowe. To efekt boomu budowanego drugiej połowy XX wieku – dzięki emigracji na Północ Włoch i za ocean, mieszkańcy przywozili gotówkę, którą finansowali rozwój miejscowości. Zwraca uwagę nieregularność brył, wydaje się, że domy wzrastały przez pączkowanie, powstawały różne dobudówki, doklejone pokoiki, dosztukowane łazienki, kolejne mini-pięterka. 
 
@@ -26,6 +26,7 @@ Dziś Roghudi wzbudza ciekawość wielbicieli pejzaży ruinowych, eksploratorów
 
 Warto jednak przemyśleć, co tak naprawdę ma oznaczać dla nas ruina.  Ruiny to położone wokół kalabryjskich miast od dawna nieczynne zakłady przemysłowe, zalany betonem i zdegradowany krajobraz wybrzeża, włoska polityka pozostawiająca Kalabrię samą sobie i skupiona wyłącznie na rozwoju bogatej północy kraju. Oto prawdziwe widma. Mury Roghudi trwają i mówią bardziej złożoną historię. Są znakiem porzucenia niechcianego dziedzictwa, ale mogą też wskazywać drogi do jego rewaloryzacji. Jasno wskazują, że nie może ona polegać na konserwatywnych próbach przywracania przeszłości, gdyż powrót do przednowoczesnego świata jest mrzonką. Otwierają przed nami zadanie twórczej konstrukcja tradycji i świadomego budowania nowej formuły wspólnoty.
 
+[^1]: *Anthropos* nr. 4/1928, s. 1025.
 
 {{< figure src="/greko/roghudi-art1.JPG" title="Zdjęcie Roghudi opublikowane przez Gerharda Rohlfsa w 1928 r." >}}
 
