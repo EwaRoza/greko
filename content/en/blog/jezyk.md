@@ -3,7 +3,7 @@ author: "Ewa Janion"
 title: "Na platespome sta greka"
 description: "Greko zapisywany jest obecnie alfabetem łacińskim, a nie greckim."
 tags: ["markdown", "css", "html"]
-date: 2021-07-14
+date: 2022-07-28
 thumbnail: /greko/roccaforte.jpg
 ---
 
