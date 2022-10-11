@@ -32,3 +32,5 @@ Zasoby internetowe (wymagają znajomości języka włoskiego):
 http://www.ettorecastagna.it/ (strona muzyka i autora powieści o greko)
 https://colingua.al.uw.edu.pl/greko/ (słownik greko)
 http://www.galareagrecanica.it/ (strona stowarzyszenia na rzecz rozwoju obszaru kultury grekańskiej) 
+
+{{< figure src="/greko/drogowskaz.JPG">}}
