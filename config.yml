@@ -37,7 +37,7 @@ languages:
           weight: 2
         -
          name: "Bibliografia"
-         url: "tags"
+         url: "/biblio/"
          weight: 3
 #        -
 #          name: "Top Post"
