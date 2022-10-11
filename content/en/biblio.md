@@ -8,7 +8,7 @@ type: about
 
 {{< figure src="/greko/drogowskaz.JPG">}}
 
-**Najważniejsze teksty w języku greko:
+**Najważniejsze teksty w języku greko**:
 
 1. Giuseppe Rossi Taibbi, Girolamo Caracausi (red.), *I  testi neogreci di Calabria*, vol. 1-2, Istituto Siciliano di studi bizantini e neoellenici, Palermo 1959.
 
@@ -20,7 +20,7 @@ type: about
 
 5. Bruno Casile, *Strafonghia sto scutidi*,  Qualecultura, Milano 1991. 
 
-**W języku polskim: 
+**W języku polskim**: 
 
 1. *Wiersze poetów włoskiego południa w przekładach Pawła Krupki*, „Kresy” 4/2000 (44), s. 181-188.
 
@@ -28,7 +28,7 @@ type: about
 
 3. Ewa Róża Janion, *Nowoczesność i uniwersalność grekańskiej poezji Salvina Nucery*, „Przegląd Humanistyczny” 1/2022 (276), s. 85-98.
 
-**W języku włoskim: 
+**W języku włoskim**: 
 
 1. Vito Teti, *Il senso dei luoghi. Paesi abbandonati di Calabria*, Donzelli Editore, Roma 2004.
 
@@ -36,7 +36,7 @@ type: about
 
 3. Filippo Violi, S*toria della Calabria greca*, Ed. Kaleidon, Reggio Calabria 2006. 
 
-**W języku angielskim: 
+**W języku angielskim**: 
 
 1. Edward Lear, *Journals of a Landscape Painter in Southern Calabria*, Bentley & c., London 1852.
 
