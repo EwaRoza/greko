@@ -5,6 +5,7 @@ description: "Dzisiaj językiem greko posługuje się niewiele osób, jednak jeg
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
 thumbnail: /greko/fresk3.JPG
+weight: 1
 ---
 
 Język grecki było obecny w Kalabrii od starożytności. W VIII-VII wieku p.n.e. Grecy zasiedliwi wybrzeża Sycylii i południowego półwyspu Apenińskiego, tworząc tzw. Wielką Grecję. Jonowie założyli Reggio di Calabria, dzisiejszą stolice prowincji, a Dorowie leżące niedaleko obszaru kultury grekańskiej Lokroi. Inskrypcje, rzeźby czy figurki bogów z kolekcji Muzeum Archeologicznego w Reggio di Calabria pokazują, że ziemie te należały do greckiego kręgu językowego i kulturowego. 500 lat później tereny te przejęli Rzymianie i rozpoczął się proces latynizacji Kalabrii. Jednak nie oznaczało to gwałtownego końca kultury Greków – zlatynizowały się wyższe warstwy społeczne związane z administracją imperium, inni jeszcze długo mogli poslugiwać się językiem greckim. Nie ma pewności, czy Greka przetrwała rzymski okres historii Kalabrii: jest to prawdopodobne, choć nie ma na to jednoznacznych dowodów. Gdy cesarstwo zachodniorzymskie upadło, Kalabria była celem ataków ludów germańskich: wykopaliska archeologiczne prowadzone w ruinach synagogi w dolinie San Pasquale nieopodal miejscowości Bova Marina wskazują na istotne zniszczenia w końcu VI w. n.e. – najprawdopodobniej to ślad najazdu Longobardów, jeden ze znaków kresu epoki rzymskiej.   
