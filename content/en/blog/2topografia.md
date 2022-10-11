@@ -3,7 +3,7 @@ author: "Ewa Janion"
 title: "W górach i na wybrzeżu "
 description: "Kolejne epoki historii mieszkańców grekańskiego zakątka Kalabrii wyznaczają przenosiny siedzib między wybrzeżem a położonymi w głębi lądu górami."
 tags: ["markdown", "css", "html"]
-<!-- date: 2021-07-14 -->
+date: 2022-07-30
 thumbnail: /greko/etna.JPG
 ---
 
