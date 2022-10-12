@@ -97,7 +97,7 @@ Cytowane tu zakończenia bajek wskazują, z jak wielką biedą zmagali się mies
 
 ### Fragment współczesnej powieści w greko:[^3]
 
-Zapis oddaje cechy wariantu wymowy charakterystycznej dla miejscowości Roghudi. 
+Zapis oddaje cechy wariantu wymowy charakterystycznej dla miejscowości Roghudi, np. scero, iscere (wiedzieć, ngr. ξέρω, ήξερε), àsciunno (bystry, ngr. έξυπνος), spema (kłamstwo, ngr. ψέμα).
 
 I ghinèka ìscere ti iche na prandeftì me ton Filìppo pùccia asce pende, esce chronu prita jatì i pàtristi ce i mànati ìssai ftiàonda to pràndemma m’ecìnu tu futùru àndrati. I petherì, i dikìtu tu Filìppu, o àndrati, tos edùcai ecìndo spiti cceddhunàcu pu stecai ismìa me chirìdi, puddhe, mia èga pètroli, minda. Tis ìpighe cala o Filìppo jatì ito enan pedì àsciunno, ligo pleon spilò para ecini, me rizsa maddhìa mavra, ctenimmèna japìssu, artàmmia pràsina, tripistà san carfìa ti eghìrize catacì ce cataòe pose mia glossa ti glifì. Iche tin fonì glicìa ce chamiddhì, eplàtevvje ciola jà tin ghinècatu, tossa viàggi lègonda spèmata megàla posso ena spiti. Iche mmialò ce iscere na ta ipi ta spèmata. Ja to protino viàggio ti ta èleghe sonnai dighi pràmata alithinà.
 
