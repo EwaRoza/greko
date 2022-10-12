@@ -43,12 +43,21 @@ W czasie teraźniejszym odmiana jest regularna, ale często występuje kilka obo
 | Osoba | Imme - być | Echo - mieć |
 | ----------- | ----------- |----------- |
 | Egò | imme / immo | echo
-| Esù | isse / isso | èchise
+| Esù | isse / isso | èchi(se)
 | Ecino, ecini, ecino | ene | echi
-|Emìs | ìmmesta / ìmmaste / ìmmasto | èchome
-|Esìs | iste | èchite
-|Ecini, ecine, ecina | ene | èchu / èchusi
+|Emì(se) | ìmmesta / ìmmaste / ìmmasto | èchome
+|Esì(se) | iste | èchite
+|Ecini, ecine, ecina | ene | èchu / èchu(si)
 
+Podobnie odmieniają się inne czasowniki, np. platègguo, canno - robić, matthènno - uczyć się. 
+
+|platègguo | canno | matthènno
+|Egò platègguo | canno | matthènno
+|Esù platèggui(se) | canni(se) | matthènni(se)
+|Ecino, ecini, ecino platèggui | canni | matthènni
+|Emì(se) platègguome | cannome | matthènnome
+|Esì(se) platègguite | cannite | matthènnite
+|Ecini, ecine, ecina platèggu(si)| cannu(si) |matthènnu(si)
 
 ### Proste dialogi w greko[^1]
 
