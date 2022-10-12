@@ -40,7 +40,7 @@ type: about
 
 **Zasoby internetowe** (wymagają znajomości języka włoskiego):
 
-1. http://www.ettorecastagna.it/ (strona muzyka i autora powieści o greko)
-2. https://colingua.al.uw.edu.pl/greko/ (słownik greko)
-3. http://www.galareagrecanica.it/ (strona stowarzyszenia na rzecz rozwoju obszaru kultury grekańskiej) 
+1. https://colingua.al.uw.edu.pl/greko/ (słownik greko)
+2. http://www.galareagrecanica.it/ (strona stowarzyszenia na rzecz rozwoju obszaru kultury grekańskiej) 
+3. http://www.ettorecastagna.it/ (strona muzyka i autora powieści o greko)
 
