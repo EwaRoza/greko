@@ -61,30 +61,21 @@ Podobnie odmieniają się inne czasowniki, np. platègguo - mówić, canno - rob
 |Esì(se) | platègguite | cannite | matthènnite
 |Ecini, ecine, ecina | platèggu(si)| cannu(si) |matthènnu(si)
 
-Czas przeszły tworzymy podobnie jak w języku nowogreckim, poprzez dodani augmentu i odpowiedniej końcówki osobowej. Tak jak w nowogreckim, w greko występuje czas przeszły niedokonany (imperfectum) i aoryst. Niektóre formy czasu przeszłego są bardzo bliskie formom nowogreckim, np. 
+Czas przeszły tworzymy podobnie jak w języku nowogreckim, poprzez dodani augmentu i odpowiedniej końcówki osobowej. Tak jak w nowogreckim, w greko występuje czas przeszły niedokonany (*imperfectum*) i aoryst. Niektóre formy czasu przeszłego są bardzo bliskie formom nowogreckim, np. 
 
-Afinno, àfinna, àfica – zostawiać ngr. αφήνω 
-
-Canno, écanna, écama – robić, ngr. κάνω
-
-Lego, élega, ìpa – mówić, ngr. λέγω
-
-Meno, émena, émina – zostawać, ngr. μένω
-
-Pìnno, épinna, épia – pić, ngr. πίνω
-
-Trogo, étroga, èfaga – jeść ngr. τρώω / τρώγω
+-Afinno, àfinna, àfica – zostawiać ngr. αφήνω 
+- Canno, écanna, écama – robić, ngr. κάνω
+- Lego, élega, ìpa – mówić, ngr. λέγω
+- Meno, émena, émina – zostawać, ngr. μένω
+- Pìnno, épinna, épia – pić, ngr. πίνω
+- Trogo, étroga, èfaga – jeść ngr. τρώω / τρώγω
 
 
 Inne są od nich odmienne, np. 
-
-Pào, ìpiga, ejiàina - iść, ngr. πηγαίνω
-
-Sònno, ìsonna, ìsoa – móc, ngr. μπορώ 
-
-Zìo, ìzo/ ìza /èzinna / ìzia - żyć, ngr. ζω 
-
-Zzèro / ìzzera / ezzipòrea - wiedzieć, ngr. ξέρω
+- Pào, ìpiga, ejiàina - iść, ngr. πηγαίνω
+- Sònno, ìsonna, ìsoa – móc, ngr. μπορώ 
+- Zìo, ìzo/ ìza /èzinna / ìzia - żyć, ngr. ζω 
+- Zzèro / ìzzera / ezzipòrea - wiedzieć, ngr. ξέρω
 
 
 ### Proste dialogi w greko[^1]
