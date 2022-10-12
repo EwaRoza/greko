@@ -52,13 +52,13 @@ W czasie teraźniejszym odmiana jest regularna, ale często występuje kilka obo
 Podobnie odmieniają się inne czasowniki, np. platègguo, canno - robić, matthènno - uczyć się. 
 
 |platègguo | canno | matthènno
-| ----------- | ----------- |----------- |
-|Egò platègguo | canno | matthènno
-|Esù platèggui(se) | canni(se) | matthènni(se)
-|Ecino, ecini, ecino platèggui | canni | matthènni
-|Emì(se) platègguome | cannome | matthènnome
-|Esì(se) platègguite | cannite | matthènnite
-|Ecini, ecine, ecina platèggu(si)| cannu(si) |matthènnu(si)
+| ----------- | ----------- |----------- |----------- |
+|Egò | platègguo | canno | matthènno
+|Esù | platèggui(se) | canni(se) | matthènni(se)
+|Ecino, ecini, ecino | platèggui | canni | matthènni
+|Emì(se) | platègguome | cannome | matthènnome
+|Esì(se) | platègguite | cannite | matthènnite
+|Ecini, ecine, ecina | platèggu(si)| cannu(si) |matthènnu(si)
 
 ### Proste dialogi w greko[^1]
 
