@@ -94,5 +94,10 @@ Cytowane tu zakończenia bajek wskazują, z jak wielką biedą zmagali się mies
 
 5. Ce emise eminame òde *sentsa* èna *grano* na payèspome tes *tàssese* tu kuvèrnu. 
 
+### Fragment powieści w greko:[^3]
+
+I ghinèka ìscere ti iche na prandeftì me ton Filìppo pùccia asce pende, esce chronu prita jatì i pàtristi ce i mànati ìssai ftiàonda to pràndemma m’ecìnu tu futùru àndrati. I petherì, i dikìtu tu Filìppu, o àndrati, tos edùcai ecìndo spiti cceddhunàcu pu stecai ismìa me chirìdi, puddhe, mia èga pètroli, minda. Tis ìpighe cala o Filìppo jatì ito enan pedì àsciunno, ligo pleon spilò para ecini, me rizsa maddhìa mavra, ctenimmèna japìssu, artàmmia pràsina, tripistà san carfìa ti eghìrize catacì ce cataòe pose mia glossa ti glifì. Iche tin fonì glicìa ce chamiddhì, eplàtevvje ciola jà tin ghinècatu, tossa viàggi lègonda spèmata megàla posso ena spiti. Iche mmialò ce iscere na ta ipi ta spèmata. Ja to protino viàggio ti ta èleghe sonnai dighi pràmata alithinà.
+
 [^1]: Dialogi pochodzą z podręcznika F. Violi, T. Squillaci, *I Glossa Dikima ja ta pedia*, Reggio Calabria 2015. 
-[^2]: Fragmenty wybrałam z antologii G. Rossi Taibbi, G. Caracausi (red.) *Testi neogreci di Calabria*, Palermo 1959. 
+[^2]: Fragmenty wybrałam z antologii G. Rossi Taibbi, G. Caracausi (red.) *Testi neogreci di Calabria*, Palermo 1959.
+[^3]: S. Nucera, *Anèvasi / L'ascesa*, Qualecultura, Vibo Valentia 2009, s. 12. 
