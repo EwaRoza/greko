@@ -34,8 +34,8 @@ type: about
 2. John Robb et al. *The Twentieth Century Invention of Ancient Mountains: The Archaeology of Highland Aspromonte*, “International Journal of Historical Archaeology”, 25 (2021), s. 14–44
 
 **Podręczniki, gramatyki, słowniki**
-1. Filoppo Violi, Vocabolario Grecanico-Italiano, Italiano-Grecanico, Apodiafazzi, Bova 2007.
-2. Filippo Violi, Tito Squillaci, I Glossa Dikima ja ta pedia. Il grecko di Calabria per i bambini, a cura di Ettore Castagna, Calabria Letteraria Editrice, Reggio Calabria 2015.
+1. Filoppo Violi, *Vocabolario Grecanico-Italiano, Italiano-Grecanico*, Apodiafazzi, Bova 2007.
+2. Filippo Violi, Tito Squillaci, *I Glossa Dikima ja ta pedia. Il grecko di Calabria per i bambini*, a cura di Ettore Castagna, Calabria Letteraria Editrice, Reggio Calabria 2015.
 3. Αναστάσιος Καραναστάσης, *Γραμματική των Ελληνικών Ιδιωμάτων τής Κάτω Ιταλίας*, Ακαδήμια Αθηνών, Αθήναι 1997. 
 
 **Zasoby internetowe** (wymagają znajomości języka włoskiego):
