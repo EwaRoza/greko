@@ -61,7 +61,7 @@ Podobnie odmieniają się inne czasowniki, np. platègguo - mówić, canno - rob
 |Esì(se) | platègguite | cannite | matthènnite
 |Ecini, ecine, ecina | platèggu(si)| cannu(si) |matthènnu(si)
 
-Niektóre formy czasu przeszłego są bardzo bliskie formom nowogreckim, np. 
+Czas przeszły tworzymy podobnie jak w języku nowogreckim, poprzez dodani augmentu i odpowiedniej końcówki osobowej. Tak jak w nowogreckim, w greko występuje czas przeszły niedokonany (imperfectum) i aoryst. Niektóre formy czasu przeszłego są bardzo bliskie formom nowogreckim, np. 
 
 Afinno, àfinna, àfica – zostawiać ngr. αφήνω 
 
@@ -74,6 +74,7 @@ Meno, émena, émina – zostawać, ngr. μένω
 Pìnno, épinna, épia – pić, ngr. πίνω
 
 Trogo, étroga, èfaga – jeść ngr. τρώω / τρώγω
+
 
 Inne są od nich odmienne, np. 
 
