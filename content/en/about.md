@@ -15,7 +15,7 @@ Rozdział dotyczący języka skierowany jest do filologów, zakłada ogólną or
 
 Miałam szczęście odwiedzać południową Kalabrię dzięki stażom badawczym w ramach poświęconego językom mniejszościowym grantu *ERC COLING Minority Languages, Major Opportunities. Collaborative Research, Community Engagement and Innovative Educational Tools* kierowanym przez prof. Justynę Olko i koordynowanym przez dr. Stanisława Kordasiewicza w latach 2019-2023.  Jestem wdzięczna aktywistom działającym na rzecz rewitalizacji języka greko z Gruppo di Azione Locale per lo Sviluppo Rurale dell’Area Grecanica, przede wszystkim moim nauczycielom Marii Olimpii Squillaci i Salvinie Nucerze, ale kieruje moje podziękowania do wszystkich organizatorów i uczestników kursów letnich *To ddomadi greko*.  
 
-Mojemu partnerowi Wiktorowi Niesiobędzkiemu dziękuję za pomoc techniczną przy konstruowaniu strony.  
+Mojemu partnerowi Wiktorowi Niesiobędzkiemu dziękuję za konsultacje techniczne przy konstruowaniu strony.  
 
 Ewa Róża Janion, autorka strony
 
