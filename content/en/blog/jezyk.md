@@ -50,7 +50,7 @@ W czasie teraźniejszym odmiana jest regularna, ale często występuje kilka obo
 |Ecini, ecine, ecina | ene | èchu / èchusi
 
 
-### Proste dialogi w greko 
+### Proste dialogi w greko[^1]
 
 1. – Egò kràzome Marìa. – Esù po kràzese? 
 
@@ -68,7 +68,7 @@ W czasie teraźniejszym odmiana jest regularna, ale często występuje kilka obo
 
 8. – Ti kerò kanni? – To kalocèri kanni zesta. To chimòna kanni sprichàda.
 
-### Urywki z grecko-kalabryjskich opowieści 
+### Urywki z grecko-kalabryjskich opowieści[^2] 
 
 W zapisie uwzględniono cechy języka mówionego. Warto zwrócić uwagę na częste podwojenie spółgłosek i na pojawiające się na końcu wyrazu *e* (ecino → ecìnose, emìs → emìse) oraz na słowa romańskie, zapożyczone z języka (dialektu) kalabryjskiego, które oznaczyłam kursywą. 
 
@@ -83,3 +83,6 @@ Cytowane tu zakończenia bajek wskazują, z jak wielką biedą zmagali się mies
 4. Ce emise eminame me tin cilia èspera, *sèntsa* fagia ce *sentsa* krasì ce *dinèrya*. 
 
 5. Ce emise eminame òde *sentsa* èna *grano* na payèspome tes *tàssese* tu kuvèrnu. 
+
+[^1]: Dialogi pochodzą z podręcznika F. Violi, T. Squillaci, *I Glossa Dikima ja ta pedia*, Reggio Calabria 2015. 
+[^2]: Fragmenty wybrałam z antologii G. Rossi Taibbi, G. Caracausi (red.) *Testi neogreci di Calabria*, Palermo 1959. 
