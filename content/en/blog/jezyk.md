@@ -63,7 +63,7 @@ Podobnie odmieniają się inne czasowniki, np. platègguo - mówić, canno - rob
 
 Czas przeszły tworzymy podobnie jak w języku nowogreckim, poprzez dodani augmentu i odpowiedniej końcówki osobowej. Tak jak w nowogreckim, w greko występuje czas przeszły niedokonany (*imperfectum*) i aoryst. Niektóre formy czasu przeszłego są bardzo bliskie formom nowogreckim, np. 
 
--Afinno, àfinna, àfica – zostawiać ngr. αφήνω 
+- Afinno, àfinna, àfica – zostawiać ngr. αφήνω 
 - Canno, écanna, écama – robić, ngr. κάνω
 - Lego, élega, ìpa – mówić, ngr. λέγω
 - Meno, émena, émina – zostawać, ngr. μένω
