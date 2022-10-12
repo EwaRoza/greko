@@ -13,7 +13,7 @@ type: about
 1. Giuseppe Rossi Taibbi, Girolamo Caracausi (red.), *I  testi neogreci di Calabria*, vol. 1-2, Istituto Siciliano di studi bizantini e neoellenici, Palermo 1959.
 2. Filippo Violi (red.), *I nuovi testi neogreci di Calabria. Antologia della letteratura grecocalabra*, vol. 1-2, Iiriti Editore, Reggio Calabria 2005. 
 3. Salvino Nucera, *Agapào na graspo. Poesie in grecanico*, Città del Sole Edizioni, Reggio Calabria 1987. 
-4. Salvino Nucera, *Chalonero. Testo grecanico con traduzione a fronte*, Qualecultura, Milano 1993.
+4. Salvino Nucera, *Chalonero. Testo grecanico con traduzione a fronte*, Qualecultura, Vibo Valentia 1993.
 5. Bruno Casile, *Strafonghia sto scutidi*,  Qualecultura, Milano 1991. 
 
 **W języku polskim**: 
