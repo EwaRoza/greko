@@ -51,7 +51,7 @@ W czasie teraźniejszym odmiana jest regularna, ale często występuje kilka obo
 
 Podobnie odmieniają się inne czasowniki, np. platègguo, canno - robić, matthènno - uczyć się. 
 
-|platègguo | canno | matthènno
+|   |platègguo | canno | matthènno
 | ----------- | ----------- |----------- |----------- |
 |Egò | platègguo | canno | matthènno
 |Esù | platèggui(se) | canni(se) | matthènni(se)
