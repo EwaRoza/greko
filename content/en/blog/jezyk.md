@@ -61,6 +61,31 @@ Podobnie odmieniają się inne czasowniki, np. platègguo - mówić, canno - rob
 |Esì(se) | platègguite | cannite | matthènnite
 |Ecini, ecine, ecina | platèggu(si)| cannu(si) |matthènnu(si)
 
+Niektóre formy czasu przeszłego są bardzo bliskie formom nowogreckim, np. 
+
+Afinno, àfinna, àfica – zostawiać ngr. αφήνω 
+
+Canno, écanna, écama – robić, ngr. κάνω
+
+Lego, élega, ìpa – mówić, ngr. λέγω
+
+Meno, émena, émina – zostawać, ngr. μένω
+
+Pìnno, épinna, épia – pić, ngr. πίνω
+
+Trogo, étroga, èfaga – jeść ngr. τρώω / τρώγω
+
+Inne są od nich odmienne, np. 
+
+Pào, ìpiga, ejiàina - iść, ngr. πηγαίνω
+
+Sònno, ìsonna, ìsoa – móc, ngr. μπορώ 
+
+Zìo, ìzo/ ìza /èzinna / ìzia - żyć, ngr. ζω 
+
+Zzèro / ìzzera / ezzipòrea - wiedzieć, ngr. ξέρω
+
+
 ### Proste dialogi w greko[^1]
 
 1. – Egò kràzome Marìa. – Esù po kràzese? 
