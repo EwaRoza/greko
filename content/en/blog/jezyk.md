@@ -95,7 +95,7 @@ Cytowane tu zakończenia bajek wskazują, z jak wielką biedą zmagali się mies
 
 5. Ce emise eminame òde *sentsa* èna *grano* na payèspome tes *tàssese* tu kuvèrnu. 
 
-### Fragment współczesnej powieści w greko:[^3]
+### Fragment współczesnej powieści w greko[^3]
 
 Zapis oddaje cechy wariantu wymowy charakterystycznej dla miejscowości Roghudi, np. scero, iscere (wiedzieć, ngr. ξέρω, ήξερε), àsciunno (bystry, ngr. έξυπνος), spema (kłamstwo, ngr. ψέμα).
 
