@@ -78,6 +78,9 @@ Inne są od nich odmienne, np.
 - Zzèro / ìzzera / ezzipòrea - wiedzieć, ngr. ξέρω
 
 
+Bardzo charakterystyczne dla języka greko są nieodmienne formy imiesłowowe zakończone na onta, (rzadziej enta, inda lub unda), takie jak: perpatònda, cùnunda, ìvronda – odpowiedniki nowogreckich form περπατώντας, ακούοντας, βλέποντας. Mogą one występować z innymi czasownikami jak w frazie klonda pao (idę płącząc, πηγαίνω κλαίωοντας) lub z czasownikiem imme w czasie przeszłym – wtedy budują czas zaprzeszły, np. immon ìvronda. 
+
+
 ### Proste dialogi w greko[^1]
 
 1. – Egò kràzome Marìa. – Esù po kràzese? 
