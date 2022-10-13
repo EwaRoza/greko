@@ -78,6 +78,25 @@ Inne są od nich odmienne, np.
 - Zzèro / ìzzera / ezzipòrea - wiedzieć, ngr. ξέρω
 
 
+Odmiana czasownika w aoryście może przebiegać następująco:
+
+Grafo
+
+Ègrazza / ègraspa
+ègraze(se) / ègraspe(se)
+ègrazze / ègraspe
+ègrazzame / ègraspame 
+ègrazzete / ègraspete 
+ègrazzasi / ègrazzai / ègraspasi / ègraspai
+
+Pao
+
+ejàina
+ejàine(se)
+ejàine
+ejàinete
+ejàinasi / ejàinai
+
 Bardzo charakterystyczne dla języka greko są nieodmienne formy imiesłowowe zakończone na onta, (rzadziej enta, inda lub unda), takie jak: perpatònda, cùnunda, ìvronda – odpowiedniki nowogreckich form περπατώντας, ακούοντας, βλέποντας. Mogą one występować z innymi czasownikami jak w frazie klonda pao (idę płącząc, πηγαίνω κλαίωοντας) lub z czasownikiem imme w czasie przeszłym – wtedy budują czas zaprzeszły, np. immon ìvronda. 
 
 Odmiana czasownika chorò (widzieć, ngr. θωρώ) w czasie zaprzeszłym może zatem wyglądać tak: 
