@@ -80,7 +80,7 @@ Inne są od nich odmienne, np.
 
 Bardzo charakterystyczne dla języka greko są nieodmienne formy imiesłowowe zakończone na onta, (rzadziej enta, inda lub unda), takie jak: perpatònda, cùnunda, ìvronda – odpowiedniki nowogreckich form περπατώντας, ακούοντας, βλέποντας. Mogą one występować z innymi czasownikami jak w frazie klonda pao (idę płącząc, πηγαίνω κλαίωοντας) lub z czasownikiem imme w czasie przeszłym – wtedy budują czas zaprzeszły, np. immon ìvronda. 
 
-Odmiana czasownika choro (widzieć, ngr. θωρώ) w czasie zaprzeszłym może zatem wyglądać tak: 
+Odmiana czasownika chorò (widzieć, ngr. θωρώ) w czasie zaprzeszłym może zatem wyglądać tak: 
 |---|
 |ìmmon ìvronda|
 |ìsson ìvronda|
