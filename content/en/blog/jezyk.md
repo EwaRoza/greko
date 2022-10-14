@@ -82,12 +82,12 @@ Odmiana czasownika w aoryście może przebiegać następująco:
 
 |   |grafo |pào |
 |---|----|----|
-|ègrazza / ègraspa |ejàina |
-|ègrazze(se) / ègraspe(se) | ejàine(se)
-|ègrazze / ègraspe | ejàine
-|ègrazzame / ègraspame | ejàiname
-|ègrazzete / ègraspete |ejàinete |
-|ègrazzasi / ègrazzai / ègraspasi / ègraspai | ejàinasi / ejàinai|
+|Egò|ègrazza / ègraspa |ejàina |
+| Esù|ègrazze(se) / ègraspe(se) | ejàine(se)
+|Ecino, ecini, ecino|ègrazze / ègraspe | ejàine
+|Emì(se)|ègrazzame / ègraspame | ejàiname
+|Esì(se)|ègrazzete / ègraspete |ejàinete |
+|Ecini, ecine, ecina|ègrazzasi / ègrazzai / ègraspasi / ègraspai | ejàinasi / ejàinai|
 
 
 Bardzo charakterystyczne dla języka greko są nieodmienne formy imiesłowowe zakończone na onta, (rzadziej enta, inda lub unda), takie jak: perpatònda, cùnunda, ìvronda – odpowiedniki nowogreckich form περπατώντας, ακούοντας, θωρώντας. Mogą one występować z innymi czasownikami jak w frazie klonda pao (idę płącząc, πηγαίνω κλαίωοντας) lub z czasownikiem imme w czasie przeszłym – wtedy budują czas zaprzeszły, np. immon ìvronda. 
