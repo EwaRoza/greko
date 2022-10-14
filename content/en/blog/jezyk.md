@@ -92,15 +92,15 @@ Odmiana czasownika w aoryście może przebiegać następująco:
 
 Bardzo charakterystyczne dla języka greko są nieodmienne formy imiesłowowe zakończone na onta, (rzadziej enta, inda lub unda), takie jak: perpatònda, cùnunda, ìvronda – odpowiedniki nowogreckich form περπατώντας, ακούοντας, θωρώντας. Mogą one występować z innymi czasownikami jak w frazie klonda pao (idę płącząc, πηγαίνω κλαίωοντας) lub z czasownikiem imme w czasie przeszłym – wtedy budują czas zaprzeszły, np. immon ìvronda. 
 
-Odmiana czasownika chorò (widzieć, ngr. θωρώ) w czasie zaprzeszłym może zatem wyglądać tak: 
-|   |chorò|
-|---|---|
-|Egò |ìmmon ìvronda|
-| Esù |ìsson ìvronda|
-|Ecino, ecini, ecino |ìton ìvronda|
-|Emì(se) |ìmmesta ìvronda|
-|Esì(se) |ìste ìvronda|
-|Ecini, ecine, ecina |ìssa / ìssai ìvronda|
+Odmiana czasownika w czasie zaprzeszłym może zatem wyglądać tak: 
+|   |chorò| lègo |
+|---|---|---|
+|Egò |ìmmon ìvronda|ìmmon lègonda|
+|Esù |ìsson ìvronda|ìsson lègonda |
+|Ecino, ecini, ecino |ìton ìvronda|ìton lègonda |
+|Emì(se) |ìmmesta ìvronda|ìmmesta lègonda |
+|Esì(se) |ìste ìvronda|ìste lègonda |
+|Ecini, ecine, ecina |ìssa / ìssai ìvronda|ìssa lègonda |
 
 
 ### Proste dialogi w greko[^1]
