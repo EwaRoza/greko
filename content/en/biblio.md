@@ -43,4 +43,5 @@ type: about
 1. https://colingua.al.uw.edu.pl/greko/ (słownik greko)
 2. http://www.galareagrecanica.it/ (strona stowarzyszenia na rzecz rozwoju obszaru kultury grekańskiej) 
 3. http://www.ettorecastagna.it/ (strona muzyka i autora powieści o greko)
+4. https://www.laltroaspromonte.it/cartografia/#toponimi-dellarea-grecanica (mapa toponimów obszaru kultury grekańskiej oraz inne mapy gór Aspromonte).
 
