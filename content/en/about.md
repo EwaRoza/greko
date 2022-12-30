@@ -17,7 +17,7 @@ Miałam szczęście odwiedzać południową Kalabrię dzięki stażom badawczym 
 
 Mojemu partnerowi Wiktorowi Niesiobędzkiemu dziękuję za konsultacje techniczne przy konstruowaniu strony.  
 
-Ewa Róża Janion, autorka strony
+dr Ewa Róża Janion, autorka strony
 
 ewa.janion@al.uw.edu.pl
 
