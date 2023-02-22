@@ -66,6 +66,8 @@ params:
   author: Ewa Janion
   # author: ["Me", "You"] # multiple authors
   ascentColor: bg-gray-100
+  copyright: Strona powstała w ramach projektu finansowanego przez Unię Europejską w programie Horyzont 2020 (Grant Marie Skłodowska-Curie nr 778384).
+
 
   hideMeta: true
 
