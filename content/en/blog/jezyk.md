@@ -21,11 +21,12 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 
 - Spółgłoska zapisywana po nowogrecku literą ζ i wymawiana *z*, w greko wymawia się jak polskie *dz* i zapisuje z. Np. czasownik ζω (żyję) wymawiamy *dzijo*, a zapisujemy: zìο. 
 - Zbitka spółgłosek zapisywana po nowogrecku literą ξ i wymawiana *ks*, w greko wymawia się jak polskie *sz* lub *c* - w zależności od lokalnego wariantu. Np. przymiotnik ξερός (suchy) wymawiamy *szerò*, a ξύλο (drewno) *cilo*. Stosuje się zapisy scerò, tsilo. 
-- Zbitka spółgłosek zapisywana po grecku literą ψ i wymawiana *ps*, w greko wymawia się *sp* lub *dzdz*. Np.  ψωμί (chleb) wymawiamy: *spomì* lub "dzdzomì" (i zapisujemy zzomì).
+- Zbitka spółgłosek zapisywana po grecku literą ψ i wymawiana *ps*, w greko wymawia się *sp* lub *dzdz*. Np.  ψωμί (chleb) wymawiamy: *spomì* lub *dzdzomì* (i zapisujemy zzomì).
 - Nowogreckie κι lub κε / και wymawiane jako miękkie *ki* lub *kie* czytamy *czi* lub *cze*, np. czasownik καίω (palę) w greko wymawiamy *czeo*.
 - Podwójne spółgłoski wymawiane są podwójnie: άμμος (piasek) → ammo, μέλισσα (pszczoła) → mèlissa.
 - Niektóre spółgłoski ulegają podwojeniu: Δίνω (daję) → dinno, κλείνω (zamykam) → klinno, ἐσένα (ciebie) → essena, είμαστε (jesteśmy) → ìmmesta, ὁ γάιδαρος μου (mój osioł) → o gàdaròmmu.
-- W greko występuje głoska ḍ (tzw. d z retrofleksją, [ɖ], wymawiana podobnie do l) nieistniejąca w standardowym języku nowogreckim, włoskim, ani polskim, ale typowa dla dialektów południowych Włoch. Głoska ḍḍ zawsze występuje podwójnie. 
+- W greko występuje głoska ḍ (tzw. d z retrofleksją, [ɖ], wymawiana podobnie do l) nieistniejąca w standardowym języku nowogreckim, włoskim, ani polskim, ale typowa dla dialektów południowych Włoch. Głoska ḍḍ zawsze występuje podwójnie, często zastępując nowogreckie λλ, np. άλλος → αḍḍο, πολλά → poḍḍà.
+- W greko występuje głoska ḍ (tzw. d z retrofleksją, [ɖ], wymawiana podobnie do l) nieistniejąca w standardowym języku nowogreckim, włoskim, ani polskim, ale typowa dla dialektów południowych Włoch. Głoska ḍḍ zawsze występuje podwójnie, często zastępując nowogreckie λλ, np. άλλος → α
 - Miejsce akcentu może się zmienić, jak w słowach: kardìa (serce), pedìa (dzieci, chłopcy), fotìa (ogień). 
 - Końcowy dźwięk *s* często zanika. Dzieje się tak np. w rzeczownikach męskich (w mianowniku l. poj. i bierniku l.mn): Ο λύκος, τους λύκους → o liko, tus liku. Ο παππούς, τους παππούδες → o pappù, tus pappùdu. Podobnie zachowuje się s w dopełniaczu rodzaju żeńskiego. 
 - Niekiedy do *s* na końcu wyrazu, dodaje się *e*, np. w formach czasownika έκανες → èkamese, κάνεις → kànnise, έχεις→èchise.
