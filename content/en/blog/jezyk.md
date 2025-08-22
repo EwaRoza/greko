@@ -37,7 +37,7 @@ Względem języka nowogreckiego, w greko obserwujemy między innymi takie zmiany
 - Po łączniku να zawsze stawiamy czasownik z tematem aorystu: agapao na gràspo (kocham pisać).
 - Cząstka τι może przyjmować różne funkcje składniowe. Np. w zdaniu złożonym może znaczyć „że”: Su lego ti èrkete. (Mówię ci, że przyjdzie). Tu fènete ti kanni ulla ta pràmata. (Wydaje mu się, że robi wszystkie rzeczy).
 - W greko pojawiają się słowa, które możemy kojarzyć z języka starogreckiego, bizantyńskiego lub katarewusy, np. òde (gr. όδε - tu), w przypadku innych mamy do czynienia z przesunięciem znaczenia (κράζω - w ngr. krzyczeć, wołać, kràzome - w greko nazywać się).   
-- Część słownictwa w ogóle nie przypomina słów nowogreckich, np. πατέρας (ojciec) to w greko ciùri, αδελφός (brat) to leddè, κότα (kura) → pùdda, βουνό (góra) → ozzìa, κάτι (coś) → ticandì, κάπου (gdzieś) → pucambù. W zapamiętaniu niektórych słów pomaga etymologia ciùri pochodzi od greckiego κύριος, a czasownik plateguo (mówię) ma związek z rzeczownikiem πλατεία (plac) i przymiotnikiem πλατύς (szeroki), chodzi bowiem o mówienie do grupy ludzi.  
+- Część słownictwa w ogóle nie przypomina słów nowogreckich, np. πατέρας (ojciec) to w greko ciùri, αδελφός (brat) to leddè, κότα (kura) → pùḍḍa, βουνό (góra) → ozzìa, κάτι (coś) → ticandì, κάπου (gdzieś) → pucambù. W zapamiętaniu niektórych słów pomaga etymologia ciùri pochodzi od greckiego κύριος, a czasownik plateguo (mówię) ma związek z rzeczownikiem πλατεία (plac) i przymiotnikiem πλατύς (szeroki), chodzi bowiem o mówienie do grupy ludzi.  
 
 
 ### Odmiana czasownika 
